@@ -78,21 +78,55 @@ def fetch_feed(url: str):
 
 TAG_RE = re.compile(r"<[^>]+>")
 TRAILING_SOURCE_RE = re.compile(r"\s*[-–—|]\s*[^-–—|]{1,40}$")
+NON_WORD_RE = re.compile(r"\W", re.UNICODE)
 
 
 def strip_html(text: str) -> str:
     return html.unescape(TAG_RE.sub("", text or "")).strip()
 
 
+def compare_key(text: str) -> str:
+    """記号・空白の全半角ゆれを無視して比較するためのキー。"""
+    return NON_WORD_RE.sub("", text or "").lower()
+
+
 def normalize_title_for_id(title: str) -> str:
-    t = TRAILING_SOURCE_RE.sub("", title or "")
-    t = re.sub(r"\s+", "", t)
-    return t.lower()
+    """媒体名や配信元表記のゆれを落として、同一記事が同じキーになるようにする。
+
+    Yahoo!ニュース等は「タイトル (配信元) - Yahoo!ニュース」の形で配信するため、
+    末尾の媒体名と括弧書きを繰り返し取り除く。
+    """
+    t = title or ""
+    for _ in range(3):
+        stripped = TRAILING_SOURCE_RE.sub("", t)
+        stripped = re.sub(r"\s*[(（][^()（）]{1,40}[)）]\s*$", "", stripped)
+        if stripped == t or not stripped:
+            break
+        t = stripped
+    return re.sub(r"\s+", "", t).lower()
 
 
 def item_id(title: str) -> str:
     norm = normalize_title_for_id(title)
     return hashlib.sha1(norm.encode("utf-8")).hexdigest()[:16]
+
+
+def strip_redundant_source(title: str, source: str) -> str:
+    """媒体名は別枠で表示するので、タイトル末尾の「 - 媒体名」を落とす。"""
+    if not source:
+        return title
+    stripped = TRAILING_SOURCE_RE.sub("", title)
+    if stripped and stripped != title and compare_key(title[len(stripped) :]) == compare_key(source):
+        return stripped.strip()
+    return title
+
+
+def is_redundant_snippet(snippet: str, title: str) -> bool:
+    """抜粋がタイトルの再掲でしかないか判定する。"""
+    s_key, t_key = compare_key(snippet), compare_key(title)
+    if not s_key or len(t_key) < 10:
+        return not s_key
+    return s_key.startswith(t_key) or t_key.startswith(s_key)
 
 
 def entry_timestamp(entry) -> datetime | None:
@@ -104,23 +138,26 @@ def entry_timestamp(entry) -> datetime | None:
 
 
 def normalize_entry(entry, source_name: str, item_type: str) -> dict | None:
-    title = strip_html(entry.get("title", ""))
+    raw_title = strip_html(entry.get("title", ""))
     link = entry.get("link", "")
-    if not title or not link:
+    if not raw_title or not link:
         return None
     ts = entry_timestamp(entry)
     if ts is None:
         return None
     snippet = strip_html(entry.get("summary", "") or entry.get("description", ""))
-    # Googleニュースの snippet はタイトルの繰り返しが多いので除去
-    if snippet == title:
-        snippet = ""
     src = source_name
     if not src:
         src_info = entry.get("source")
         src = strip_html(src_info.get("title", "")) if src_info else ""
+
+    # 媒体名は別枠で表示するのでタイトルからは落とし、
+    # タイトルの再掲でしかないGoogleニュースの description は捨てる
+    title = strip_redundant_source(raw_title, src)
+    if is_redundant_snippet(snippet, title):
+        snippet = ""
     return {
-        "id": item_id(title),
+        "id": item_id(raw_title),
         "title": title,
         "link": link,
         "source": src,
@@ -419,7 +456,8 @@ header .updated {{ font-size: 11px; margin-top: 4px; opacity: .95; }}
 .badge-video {{ background: var(--ink); }}
 .badge-ai {{ background: var(--main); flex: 0 0 auto; }}
 .card-title {{
-  display: block; color: var(--ink); font-size: 14px; font-weight: bold;
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 4;
+  overflow: hidden; color: var(--ink); font-size: 14px; font-weight: bold;
   line-height: 1.45; text-decoration: none; word-break: break-word;
 }}
 .card-title:hover {{ text-decoration: underline; }}
