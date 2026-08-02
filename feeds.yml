@@ -1,0 +1,131 @@
+# =============================================================
+# ポケ情報ボード 設定ファイル
+# ユーザーが編集するのはこのファイルだけです。
+# カテゴリの追加・検索語の変更・YouTubeチャンネル追加などはここで行います。
+# =============================================================
+
+settings:
+  site_title: ポケ情報ボード
+  # 各カテゴリに表示する最大件数
+  max_items_per_category: 30
+  # これより古い記事は破棄(日数)
+  max_age_days: 21
+
+# -------------------------------------------------------------
+# カテゴリ定義
+#   id            : 内部ID(英数字)
+#   name          : タブに表示する名前
+#   color         : カテゴリカラー(カードの左ボーダー等に使用)
+#   news_queries  : Googleニュース検索語(1つにつき1フィード生成)
+#   feeds         : このカテゴリ専用のRSSフィード(YouTubeチャンネル等)
+#   x_rss         : X(Twitter)のRSSブリッジURL(RSSHub等・任意)
+#                   例: https://rsshub.app/twitter/user/pokemoncenterPR
+#                   ※公開インスタンスはレート制限で失敗しがち。失敗しても
+#                     サイト生成は止まりません(警告ログのみ)。
+# -------------------------------------------------------------
+categories:
+  - id: pokecen
+    name: ポケセン グッズ
+    color: "#E1859B"
+    news_queries:
+      - "ポケモンセンター グッズ"
+      - "ポケモンセンター 再販 OR 予約 OR 抽選"
+    feeds: []
+    # ポケモンセンター公式X: @pokemoncenterPR
+    x_rss: []
+
+  - id: pokeca
+    name: ポケカ
+    color: "#DEBB7C"
+    news_queries:
+      - "ポケカ 新弾 OR 予約 OR 再販"
+      - "ポケモンカード 発売"
+    feeds:
+      # 【公式】ポケモンカードチャンネル (youtube.com/@PokecaCH)
+      - url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCysOBNRW0rEmLtFptj1TN7A"
+        source: ポケモンカードチャンネル
+        type: video
+    # ポケモンカードチャンネル公式X: @PokecaCH
+    x_rss: []
+
+  - id: sleep
+    name: ポケモンスリープ
+    color: "#79CBAA"
+    news_queries:
+      - "ポケモンスリープ"
+    feeds:
+      # Pokémon Sleep公式チャンネル
+      - url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCQUmvPlIQsoKUP9EhKTgk8w"
+        source: Pokémon Sleep公式
+        type: video
+    # Pokémon Sleep公式X: @PokemonSleepApp
+    x_rss: []
+
+  - id: pokopia
+    name: ぽこあポケモン
+    color: "#E4A981"
+    news_queries:
+      - "ぽこあポケモン"
+      - "Pokémon Pokopia"
+    feeds: []
+    x_rss: []
+
+  - id: champions
+    name: チャンピオンズ
+    color: "#A996E5"
+    news_queries:
+      - "ポケモンチャンピオンズ"
+    feeds: []
+    # ポケモンチャンピオンズ公式X: @Poke_Champ_jp
+    x_rss: []
+
+  - id: mainline
+    name: ゲーム本編
+    color: "#D093D0"
+    news_queries:
+      - "ポケットモンスター 新作 OR アップデート OR 配信"
+      - "ポケモン レジェンズ"
+    feeds: []
+    x_rss: []
+
+# -------------------------------------------------------------
+# 汎用ソース: 複数カテゴリの話題が混ざるソース。
+# routing のキーワードでカテゴリに振り分け、どれにも該当しなければ
+# fallback_category(「その他」タブ)へ入ります。
+#   title_filter : タイトルにいずれかを含む場合のみ採用(関係ない動画の除外)
+# -------------------------------------------------------------
+shared_sources:
+  # ポケモン公式YouTubeチャンネル (youtube.com/@PokemonCoJp)
+  - url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC_SI1j1d8vJo_rYMV5o_dRg"
+    source: ポケモン公式YouTube
+    type: video
+  # Nintendo 公式チャンネル(ポケモン関連タイトルのみ採用)
+  - url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCkH3CcMfqww9RsZvPRPkAJA"
+    source: Nintendo 公式チャンネル
+    type: video
+    title_filter: ["ポケモン", "ポケットモンスター", "Pokémon", "ぽこ"]
+  # ポケモン公式X: @Pokemon_cojp(RSSブリッジURLを設定すると取得を試みます)
+  # - url: "https://rsshub.app/twitter/user/Pokemon_cojp"
+  #   source: ポケモン公式X
+  #   type: x
+
+# タイトルのキーワードによる振り分けルール(上から順に評価)
+routing:
+  - keywords: ["スリープ", "Sleep"]
+    category: sleep
+  - keywords: ["ポケカ", "ポケモンカード", "カードゲーム"]
+    category: pokeca
+  - keywords: ["ぽこあ", "Pokopia", "ぽこ"]
+    category: pokopia
+  - keywords: ["チャンピオンズ", "Champions"]
+    category: champions
+  - keywords: ["ポケモンセンター", "グッズ", "ぬいぐるみ"]
+    category: pokecen
+  - keywords: ["レジェンズ", "LEGENDS", "スカーレット", "バイオレット", "アップデート", "新作"]
+    category: mainline
+
+# routing に該当しなかった汎用ソースの記事の行き先
+fallback_category:
+  id: other
+  name: その他
+  color: "#99AEC2"

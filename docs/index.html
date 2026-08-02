@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ポケ情報ボード</title>
+<style>
+:root {
+  --main: #86B3E0; --bg: #EFF4FA; --line: #D3DEEA;
+  --ink: #2B3A4C; --white: #FFFFFF; --new: #E57A7A;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
+  background: var(--bg); color: var(--ink);
+  max-width: 600px; margin: 0 auto; padding-bottom: 40px;
+}
+header {
+  background: var(--main); color: var(--white);
+  padding: 16px 16px 12px; border-radius: 0 0 14px 14px;
+}
+header h1 { font-size: 20px; letter-spacing: 1px; }
+header .updated { font-size: 11px; margin-top: 4px; opacity: .95; }
+.tabs {
+  display: flex; gap: 8px; overflow-x: auto; padding: 12px 12px 4px;
+  -webkit-overflow-scrolling: touch; scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  flex: 0 0 auto; border: 1px solid var(--line); background: var(--white);
+  color: var(--ink); border-radius: 999px; padding: 7px 14px;
+  font-size: 13px; cursor: pointer; display: flex; align-items: center; gap: 6px;
+}
+.tab .count {
+  background: var(--cat); color: var(--white); border-radius: 999px;
+  font-size: 11px; padding: 1px 7px; min-width: 20px; text-align: center;
+}
+.tab.active { background: var(--ink); color: var(--white); border-color: var(--ink); }
+.panel { display: none; padding: 10px 12px; }
+.panel.active { display: block; }
+.card {
+  background: var(--white); border: 1px solid var(--line);
+  border-left: 5px solid var(--main); border-radius: 12px;
+  padding: 12px 14px; margin-bottom: 10px;
+}
+.card-meta {
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  font-size: 11px; margin-bottom: 6px;
+}
+.time { color: var(--ink); opacity: .65; }
+.source { color: var(--ink); opacity: .65; }
+.badge {
+  border-radius: 4px; padding: 2px 6px; font-size: 10px; font-weight: bold;
+  color: var(--white); line-height: 1.2;
+}
+.badge-new { background: var(--new); }
+.badge-video { background: var(--ink); }
+.badge-ai { background: var(--main); flex: 0 0 auto; }
+.card-title {
+  display: block; color: var(--ink); font-size: 14px; font-weight: bold;
+  line-height: 1.45; text-decoration: none; word-break: break-word;
+}
+.card-title:hover { text-decoration: underline; }
+.summary {
+  display: flex; gap: 8px; align-items: flex-start;
+  background: var(--bg); border: 1px solid var(--line); border-radius: 8px;
+  padding: 8px 10px; margin-top: 8px; font-size: 12px; line-height: 1.5;
+}
+.summary-text { word-break: break-word; }
+.empty { text-align: center; font-size: 13px; opacity: .6; padding: 30px 0; }
+footer {
+  text-align: center; font-size: 11px; opacity: .6; padding: 20px 12px 0;
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>ポケ情報ボード</h1>
+  <div class="updated">最終更新: 2026/08/02 09:28 (JST)</div>
+</header>
+<nav class="tabs"><button class="tab active" data-target="panel-pokecen" style="--cat:#E1859B">ポケセン グッズ<span class="count">0</span></button><button class="tab" data-target="panel-pokeca" style="--cat:#DEBB7C">ポケカ<span class="count">0</span></button><button class="tab" data-target="panel-sleep" style="--cat:#79CBAA">ポケモンスリープ<span class="count">0</span></button><button class="tab" data-target="panel-pokopia" style="--cat:#E4A981">ぽこあポケモン<span class="count">0</span></button><button class="tab" data-target="panel-champions" style="--cat:#A996E5">チャンピオンズ<span class="count">0</span></button><button class="tab" data-target="panel-mainline" style="--cat:#D093D0">ゲーム本編<span class="count">0</span></button></nav>
+<section class="panel active" id="panel-pokecen"><p class="empty">まだ記事がありません</p></section><section class="panel" id="panel-pokeca"><p class="empty">まだ記事がありません</p></section><section class="panel" id="panel-sleep"><p class="empty">まだ記事がありません</p></section><section class="panel" id="panel-pokopia"><p class="empty">まだ記事がありません</p></section><section class="panel" id="panel-champions"><p class="empty">まだ記事がありません</p></section><section class="panel" id="panel-mainline"><p class="empty">まだ記事がありません</p></section>
+<footer>6時間ごと自動更新 / feeds.yml で編集可</footer>
+<script>
+document.querySelectorAll('.tab').forEach(function (tab) {
+  tab.addEventListener('click', function () {
+    document.querySelectorAll('.tab').forEach(function (t) { t.classList.remove('active'); });
+    document.querySelectorAll('.panel').forEach(function (p) { p.classList.remove('active'); });
+    tab.classList.add('active');
+    document.getElementById(tab.dataset.target).classList.add('active');
+  });
+});
+</script>
+</body>
+</html>
