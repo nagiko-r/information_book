@@ -164,6 +164,7 @@ def normalize_entry(entry, source_name: str, item_type: str) -> dict | None:
         "snippet": snippet[:300],
         "ts": ts.astimezone(timezone.utc).isoformat(),
         "type": item_type,
+        "guide": False,
         "summary": "",
     }
 
@@ -171,6 +172,19 @@ def normalize_entry(entry, source_name: str, item_type: str) -> dict | None:
 def title_matches(title: str, keywords) -> bool:
     lowered = title.lower()
     return any(k.lower() in lowered for k in keywords)
+
+
+def is_guide_item(item: dict, guide_filter: dict) -> bool:
+    """攻略Wiki・買取価格・通販ページなど、新着ニュースではない記事か判定する。
+
+    公式チャンネルの動画やXは常に新着扱いのままにする。
+    """
+    if item["type"] != "news":
+        return False
+    src = item["source"].lower()
+    if any(s.lower() in src for s in guide_filter.get("sources", []) or []):
+        return True
+    return title_matches(item["title"], guide_filter.get("keywords", []) or [])
 
 
 # ----------------------------------------------------------------- 収集本体
@@ -331,8 +345,24 @@ def apply_summaries(by_category: dict[str, list[dict]]):
 
 # ----------------------------------------------------------------- HTML生成
 
-def fmt_jst(iso_ts: str) -> str:
-    return datetime.fromisoformat(iso_ts).astimezone(JST).strftime("%m/%d %H:%M")
+WEEKDAYS_JA = "月火水木金土日"
+
+
+def to_jst(iso_ts: str) -> datetime:
+    return datetime.fromisoformat(iso_ts).astimezone(JST)
+
+
+def fmt_time(iso_ts: str) -> str:
+    return to_jst(iso_ts).strftime("%H:%M")
+
+
+def fmt_day_label(day: datetime, today: datetime) -> str:
+    delta = (today.date() - day.date()).days
+    if delta == 0:
+        return "今日"
+    if delta == 1:
+        return "昨日"
+    return f"{day.month}月{day.day}日({WEEKDAYS_JA[day.weekday()]})"
 
 
 def render_card(item: dict, color: str, now_utc: datetime) -> str:
@@ -358,14 +388,40 @@ def render_card(item: dict, color: str, now_utc: datetime) -> str:
             f'<span class="summary-text">{e(item["snippet"][:SNIPPET_FALLBACK_LEN])}</span></div>'
         )
 
+    if item.get("guide"):
+        badges += '<span class="badge badge-guide">攻略・まとめ</span>'
+
     source_html = f'<span class="source">{e(item["source"])}</span>' if item["source"] else ""
+    cls = "card guide" if item.get("guide") else "card"
     return (
-        f'<article class="card" style="border-left-color:{e(color)}">'
-        f'<div class="card-meta">{badges}<span class="time">{fmt_jst(item["ts"])}</span>{source_html}</div>'
+        f'<article class="{cls}" style="border-left-color:{e(color)}">'
+        f'<div class="card-meta">{badges}<span class="time">{fmt_time(item["ts"])}</span>{source_html}</div>'
         f'<a class="card-title" href="{e(item["link"])}" target="_blank" rel="noopener">{e(item["title"])}</a>'
         f"{summary_html}"
         "</article>"
     )
+
+
+def render_days(items: list[dict], color: str, now_utc: datetime) -> str:
+    """記事を日付ごとの見出しでまとめる。"""
+    today = now_utc.astimezone(JST)
+    groups: list[tuple[datetime, list[dict]]] = []
+    for item in items:
+        day = to_jst(item["ts"])
+        if not groups or groups[-1][0].date() != day.date():
+            groups.append((day, []))
+        groups[-1][1].append(item)
+
+    out = []
+    for day, day_items in groups:
+        visible = sum(1 for i in day_items if not i.get("guide"))
+        cards = "".join(render_card(i, color, now_utc) for i in day_items)
+        out.append(
+            f'<div class="day" data-visible="{visible}">'
+            f'<h2 class="day-label">{html.escape(fmt_day_label(day, today))}</h2>'
+            f"{cards}</div>"
+        )
+    return "".join(out)
 
 
 def render_html(config: dict, by_category: dict[str, list[dict]]) -> str:
@@ -386,15 +442,22 @@ def render_html(config: dict, by_category: dict[str, list[dict]]) -> str:
         cat_id = cat["id"]
         items = by_category.get(cat_id, [])
         active = " active" if i == 0 else ""
+        n_all = len(items)
+        n_news = sum(1 for it in items if not it.get("guide"))
         tabs.append(
             f'<button class="tab{active}" data-target="panel-{e(cat_id)}" '
-            f'style="--cat:{e(cat.get("color", COLORS["main"]))}">'
-            f'{e(cat["name"])}<span class="count">{len(items)}</span></button>'
+            f'style="--cat:{e(cat.get("color", COLORS["main"]))}" '
+            f'data-count-news="{n_news}" data-count-all="{n_all}">'
+            f'{e(cat["name"])}<span class="count">{n_news}</span></button>'
         )
-        cards = "".join(render_card(item, cat.get("color", COLORS["main"]), now_utc) for item in items)
-        if not cards:
-            cards = '<p class="empty">まだ記事がありません</p>'
-        panels.append(f'<section class="panel{active}" id="panel-{e(cat_id)}">{cards}</section>')
+        body = render_days(items, cat.get("color", COLORS["main"]), now_utc)
+        if not items:
+            body = '<p class="empty">まだ記事がありません</p>'
+        elif n_news == 0:
+            body += '<p class="empty">新着ニュースはありません。上のスイッチで攻略・まとめ記事を表示できます。</p>'
+        panels.append(f'<section class="panel{active}" id="panel-{e(cat_id)}">{body}</section>')
+
+    guide_total = sum(1 for items in by_category.values() for it in items if it.get("guide"))
 
     c = COLORS
     return f"""<!DOCTYPE html>
@@ -435,8 +498,21 @@ header .updated {{ font-size: 11px; margin-top: 4px; opacity: .95; }}
   font-size: 11px; padding: 1px 7px; min-width: 20px; text-align: center;
 }}
 .tab.active {{ background: var(--ink); color: var(--white); border-color: var(--ink); }}
-.panel {{ display: none; padding: 10px 12px; }}
+.toolbar {{ padding: 8px 14px 0; }}
+.toolbar label {{
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 12px; color: var(--ink); opacity: .8; cursor: pointer;
+}}
+.toolbar input {{ accent-color: var(--main); width: 15px; height: 15px; }}
+.panel {{ display: none; padding: 6px 12px 10px; }}
 .panel.active {{ display: block; }}
+.day-label {{
+  font-size: 12px; font-weight: bold; color: var(--ink); opacity: .55;
+  margin: 14px 2px 7px; letter-spacing: .5px;
+}}
+.day:first-child .day-label {{ margin-top: 6px; }}
+.card.guide {{ display: none; }}
+body.show-guide .card.guide {{ display: block; }}
 .card {{
   background: var(--white); border: 1px solid var(--line);
   border-left: 5px solid var(--main); border-radius: 12px;
@@ -455,8 +531,9 @@ header .updated {{ font-size: 11px; margin-top: 4px; opacity: .95; }}
 .badge-new {{ background: var(--new); }}
 .badge-video {{ background: var(--ink); }}
 .badge-ai {{ background: var(--main); flex: 0 0 auto; }}
+.badge-guide {{ background: var(--white); color: var(--ink); border: 1px solid var(--line); opacity: .8; }}
 .card-title {{
-  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 4;
+  display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 3;
   overflow: hidden; color: var(--ink); font-size: 14px; font-weight: bold;
   line-height: 1.45; text-decoration: none; word-break: break-word;
 }}
@@ -479,6 +556,9 @@ footer {{
   <div class="updated">最終更新: {updated} (JST)</div>
 </header>
 <nav class="tabs">{''.join(tabs)}</nav>
+<div class="toolbar">
+  <label><input type="checkbox" id="showGuide"> 攻略・まとめ記事も表示（{guide_total}件）</label>
+</div>
 {''.join(panels)}
 <footer>6時間ごと自動更新 / feeds.yml で編集可</footer>
 <script>
@@ -490,6 +570,20 @@ document.querySelectorAll('.tab').forEach(function (tab) {{
     document.getElementById(tab.dataset.target).classList.add('active');
   }});
 }});
+
+var showGuide = document.getElementById('showGuide');
+function applyGuideVisibility() {{
+  var on = showGuide.checked;
+  document.body.classList.toggle('show-guide', on);
+  document.querySelectorAll('.tab').forEach(function (tab) {{
+    tab.querySelector('.count').textContent = on ? tab.dataset.countAll : tab.dataset.countNews;
+  }});
+  document.querySelectorAll('.day').forEach(function (day) {{
+    day.style.display = (on || day.dataset.visible !== '0') ? '' : 'none';
+  }});
+}}
+showGuide.addEventListener('change', applyGuideVisibility);
+applyGuideVisibility();
 </script>
 </body>
 </html>
@@ -505,10 +599,15 @@ def main() -> int:
     max_age_days = int(settings.get("max_age_days", 21))
 
     log.info("収集を開始します")
+    guide_filter = config.get("guide_filter", {}) or {}
     by_category = collect_items(config)
     for cat_id, items in by_category.items():
-        by_category[cat_id] = dedupe_and_trim(items, max_age_days, max_items)
-        log.info("カテゴリ %s: %d 件", cat_id, len(by_category[cat_id]))
+        trimmed = dedupe_and_trim(items, max_age_days, max_items)
+        for item in trimmed:
+            item["guide"] = is_guide_item(item, guide_filter)
+        by_category[cat_id] = trimmed
+        n_guide = sum(1 for i in trimmed if i["guide"])
+        log.info("カテゴリ %s: %d 件 (うち攻略・まとめ %d 件)", cat_id, len(trimmed), n_guide)
 
     apply_summaries(by_category)
 
