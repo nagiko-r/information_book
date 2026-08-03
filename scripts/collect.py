@@ -394,12 +394,23 @@ def render_card(item: dict, color: str, now_utc: datetime) -> str:
     source_html = f'<span class="source">{e(item["source"])}</span>' if item["source"] else ""
     cls = "card guide" if item.get("guide") else "card"
     return (
-        f'<article class="{cls}" style="border-left-color:{e(color)}">'
-        f'<div class="card-meta">{badges}<span class="time">{fmt_time(item["ts"])}</span>{source_html}</div>'
+        f'<article class="{cls}" data-id="{e(item["id"])}" data-ts="{e(item["ts"])}" '
+        f'data-type="{e(item["type"])}" style="border-left-color:{e(color)}">'
+        f'<div class="card-meta">{badges}<span class="time">{fmt_time(item["ts"])}</span>{source_html}'
+        f"{ACTIONS_HTML}</div>"
         f'<a class="card-title" href="{e(item["link"])}" target="_blank" rel="noopener">{e(item["title"])}</a>'
         f"{summary_html}"
         "</article>"
     )
+
+
+# ☆=お気に入り / ✕=アーカイブ。アーカイブ表示中は ✕ が「戻す」になる。
+ACTIONS_HTML = (
+    '<span class="actions">'
+    '<button class="act act-fav" type="button" title="お気に入り" aria-label="お気に入りに追加">&#9734;</button>'
+    '<button class="act act-arc" type="button" title="アーカイブ" aria-label="アーカイブする">&#10005;</button>'
+    "</span>"
+)
 
 
 def render_days(items: list[dict], color: str, now_utc: datetime) -> str:
@@ -414,10 +425,9 @@ def render_days(items: list[dict], color: str, now_utc: datetime) -> str:
 
     out = []
     for day, day_items in groups:
-        visible = sum(1 for i in day_items if not i.get("guide"))
         cards = "".join(render_card(i, color, now_utc) for i in day_items)
         out.append(
-            f'<div class="day" data-visible="{visible}">'
+            '<div class="day">'
             f'<h2 class="day-label">{html.escape(fmt_day_label(day, today))}</h2>'
             f"{cards}</div>"
         )
@@ -436,25 +446,23 @@ def render_html(config: dict, by_category: dict[str, list[dict]]) -> str:
     if fallback and by_category.get(fallback.get("id")):
         cats.append(fallback)
 
-    tabs = []
-    panels = []
+    # お気に入りタブは常に先頭。中身はブラウザの保存内容から JS で描画する
+    tabs = [
+        '<button class="tab" data-target="panel-fav" data-fav-tab="1" '
+        f'style="--cat:{COLORS["main"]}">&#9733; お気に入り<span class="count">0</span></button>'
+    ]
+    panels = ['<section class="panel" id="panel-fav"></section>']
+
     for i, cat in enumerate(cats):
         cat_id = cat["id"]
         items = by_category.get(cat_id, [])
         active = " active" if i == 0 else ""
-        n_all = len(items)
-        n_news = sum(1 for it in items if not it.get("guide"))
         tabs.append(
             f'<button class="tab{active}" data-target="panel-{e(cat_id)}" '
-            f'style="--cat:{e(cat.get("color", COLORS["main"]))}" '
-            f'data-count-news="{n_news}" data-count-all="{n_all}">'
-            f'{e(cat["name"])}<span class="count">{n_news}</span></button>'
+            f'style="--cat:{e(cat.get("color", COLORS["main"]))}">'
+            f'{e(cat["name"])}<span class="count">{len(items)}</span></button>'
         )
         body = render_days(items, cat.get("color", COLORS["main"]), now_utc)
-        if not items:
-            body = '<p class="empty">まだ記事がありません</p>'
-        elif n_news == 0:
-            body += '<p class="empty">新着ニュースはありません。上のスイッチで攻略・まとめ記事を表示できます。</p>'
         panels.append(f'<section class="panel{active}" id="panel-{e(cat_id)}">{body}</section>')
 
     guide_total = sum(1 for items in by_category.values() for it in items if it.get("guide"))
@@ -498,7 +506,7 @@ header .updated {{ font-size: 11px; margin-top: 4px; opacity: .95; }}
   font-size: 11px; padding: 1px 7px; min-width: 20px; text-align: center;
 }}
 .tab.active {{ background: var(--ink); color: var(--white); border-color: var(--ink); }}
-.toolbar {{ padding: 8px 14px 0; }}
+.toolbar {{ display: flex; flex-wrap: wrap; gap: 6px 16px; padding: 9px 14px 0; }}
 .toolbar label {{
   display: inline-flex; align-items: center; gap: 6px;
   font-size: 12px; color: var(--ink); opacity: .8; cursor: pointer;
@@ -522,6 +530,16 @@ body.show-guide .card.guide {{ display: block; }}
   display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
   font-size: 11px; margin-bottom: 6px;
 }}
+.actions {{ margin-left: auto; display: flex; gap: 2px; flex: 0 0 auto; }}
+.act {{
+  border: 0; background: none; cursor: pointer; line-height: 1;
+  color: var(--ink); opacity: .4; font-size: 16px;
+  /* 指で押しやすいよう余白で当たり判定を広げる(見た目は変えない) */
+  padding: 8px; margin: -6px 0; border-radius: 6px; font-family: inherit;
+}}
+.act:hover {{ opacity: .9; background: var(--bg); }}
+.act-fav.on {{ opacity: 1; color: var(--main); }}
+.card.archived .act-arc {{ font-size: 11px; opacity: .75; }}
 .time {{ color: var(--ink); opacity: .65; }}
 .source {{ color: var(--ink); opacity: .65; }}
 .badge {{
@@ -557,33 +575,201 @@ footer {{
 </header>
 <nav class="tabs">{''.join(tabs)}</nav>
 <div class="toolbar">
-  <label><input type="checkbox" id="showGuide"> 攻略・まとめ記事も表示（{guide_total}件）</label>
+  <label><input type="checkbox" id="showGuide"> 攻略・まとめも表示（{guide_total}）</label>
+  <label><input type="checkbox" id="showArchive"> アーカイブを見る（<span id="arcCount">0</span>）</label>
 </div>
 {''.join(panels)}
 <footer>6時間ごと自動更新 / feeds.yml で編集可</footer>
 <script>
-document.querySelectorAll('.tab').forEach(function (tab) {{
-  tab.addEventListener('click', function () {{
-    document.querySelectorAll('.tab').forEach(function (t) {{ t.classList.remove('active'); }});
-    document.querySelectorAll('.panel').forEach(function (p) {{ p.classList.remove('active'); }});
-    tab.classList.add('active');
-    document.getElementById(tab.dataset.target).classList.add('active');
-  }});
-}});
+(function () {{
+  var FAV_KEY = 'pokeboard.favs.v1';
+  var ARC_KEY = 'pokeboard.arc.v1';
+  var ARC_TTL_MS = 60 * 86400000;   // アーカイブ記録の保持期間
+  var DAY_MS = 86400000;
+  var WD = ['日', '月', '火', '水', '木', '金', '土'];
 
-var showGuide = document.getElementById('showGuide');
-function applyGuideVisibility() {{
-  var on = showGuide.checked;
-  document.body.classList.toggle('show-guide', on);
+  function load(k) {{
+    try {{ return JSON.parse(localStorage.getItem(k)) || {{}}; }} catch (e) {{ return {{}}; }}
+  }}
+  function save(k, v) {{
+    try {{ localStorage.setItem(k, JSON.stringify(v)); }} catch (e) {{}}
+  }}
+  function esc(s) {{
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {{
+      return {{ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }}[c];
+    }});
+  }}
+  // 閲覧者のタイムズーンに関係なくJSTで表示する
+  function jst(ts) {{ return new Date(Date.parse(ts) + 9 * 3600000); }}
+  function fmtTime(ts) {{
+    var d = jst(ts), h = d.getUTCHours(), m = d.getUTCMinutes();
+    return (h < 10 ? '0' : '') + h + ':' + (m < 10 ? '0' : '') + m;
+  }}
+  function dayKey(ts) {{ return jst(ts).toISOString().slice(0, 10); }}
+  function dayLabel(ts) {{
+    var d = jst(ts), today = jst(new Date().toISOString());
+    var diff = Math.round((Date.parse(dayKey(new Date().toISOString())) - Date.parse(dayKey(ts))) / DAY_MS);
+    if (diff === 0) return '今日';
+    if (diff === 1) return '昨日';
+    return (d.getUTCMonth() + 1) + '月' + d.getUTCDate() + '日(' + WD[d.getUTCDay()] + ')';
+  }}
+
+  var favs = load(FAV_KEY);
+  var arc = load(ARC_KEY);
+
+  // 記録が無制限に増えないよう、古いアーカイブは忘れる
+  var cutoff = Date.now() - ARC_TTL_MS, pruned = false;
+  Object.keys(arc).forEach(function (id) {{
+    if (!(arc[id] > cutoff)) {{ delete arc[id]; pruned = true; }}
+  }});
+  if (pruned) save(ARC_KEY, arc);
+
+  var showGuide = document.getElementById('showGuide');
+  var showArchive = document.getElementById('showArchive');
+  var arcCount = document.getElementById('arcCount');
+  var favPanel = document.getElementById('panel-fav');
+
+  // カードのDOMから保存用のデータを取り出す(記事が配信から消えても残せるように)
+  function readCard(card) {{
+    var a = card.querySelector('.card-title');
+    var sum = card.querySelector('.summary-text');
+    var src = card.querySelector('.source');
+    return {{
+      id: card.dataset.id, ts: card.dataset.ts, type: card.dataset.type,
+      color: card.style.borderLeftColor,
+      title: a ? a.textContent : '', link: a ? a.href : '',
+      source: src ? src.textContent : '',
+      summary: sum ? sum.textContent : '',
+      ai: !!card.querySelector('.badge-ai'),
+      addedAt: Date.now()
+    }};
+  }}
+
+  function cardHTML(it, archived) {{
+    var b = '';
+    if (Date.now() - Date.parse(it.ts) <= DAY_MS) b += '<span class="badge badge-new">NEW</span>';
+    if (it.type === 'video') b += '<span class="badge badge-video">&#9654; 動画</span>';
+    else if (it.type === 'x') b += '<span class="badge badge-video">X</span>';
+    var sum = '';
+    if (it.summary) {{
+      sum = '<div class="summary">' + (it.ai ? '<span class="badge badge-ai">AI要約</span>' : '') +
+        '<span class="summary-text">' + esc(it.summary) + '</span></div>';
+    }}
+    var src = it.source ? '<span class="source">' + esc(it.source) + '</span>' : '';
+    return '<article class="card' + (archived ? ' archived' : '') + '" data-id="' + esc(it.id) +
+      '" data-ts="' + esc(it.ts) + '" data-type="' + esc(it.type) +
+      '" style="border-left-color:' + esc(it.color || '{c['main']}') + '">' +
+      '<div class="card-meta">' + b + '<span class="time">' + fmtTime(it.ts) + '</span>' + src +
+      '<span class="actions">' +
+      '<button class="act act-fav on" type="button" title="お気に入りを外す" aria-label="お気に入りを外す">&#9733;</button>' +
+      '<button class="act act-arc" type="button" title="' + (archived ? '元に戻す' : 'アーカイブ') + '">' +
+      (archived ? '戻す' : '&#10005;') + '</button></span></div>' +
+      '<a class="card-title" href="' + esc(it.link) + '" target="_blank" rel="noopener">' +
+      esc(it.title) + '</a>' + sum + '</article>';
+  }}
+
+  function renderFavPanel() {{
+    var arcMode = showArchive.checked;
+    var list = Object.keys(favs).map(function (id) {{ return favs[id]; }})
+      .filter(function (it) {{ return arcMode ? !!arc[it.id] : !arc[it.id]; }})
+      .sort(function (a, b) {{ return Date.parse(b.ts) - Date.parse(a.ts); }});
+
+    if (!list.length) {{
+      favPanel.innerHTML = '<p class="empty">' + (arcMode
+        ? 'アーカイブしたお気に入りはありません'
+        : 'お気に入りはまだありません。記事の &#9734; を押すと追加されます。') + '</p>';
+      return list.length;
+    }}
+    var out = '', prev = null;
+    list.forEach(function (it) {{
+      var k = dayKey(it.ts);
+      if (k !== prev) {{
+        if (prev !== null) out += '</div>';
+        out += '<div class="day"><h2 class="day-label">' + esc(dayLabel(it.ts)) + '</h2>';
+        prev = k;
+      }}
+      out += cardHTML(it, arcMode);
+    }});
+    favPanel.innerHTML = out + '</div>';
+    return list.length;
+  }}
+
+  function refresh() {{
+    var arcMode = showArchive.checked;
+    var guideOn = showGuide.checked;
+    document.body.classList.toggle('show-guide', guideOn);
+
+    document.querySelectorAll('.panel:not(#panel-fav)').forEach(function (panel) {{
+      var shown = 0;
+      panel.querySelectorAll('.card').forEach(function (card) {{
+        var archived = !!arc[card.dataset.id];
+        var visible = arcMode ? archived
+          : (!archived && (guideOn || !card.classList.contains('guide')));
+        card.style.display = visible ? '' : 'none';
+        card.classList.toggle('archived', archived);
+        var fav = card.querySelector('.act-fav');
+        var isFav = !!favs[card.dataset.id];
+        fav.classList.toggle('on', isFav);
+        fav.innerHTML = isFav ? '&#9733;' : '&#9734;';
+        fav.title = isFav ? 'お気に入りを外す' : 'お気に入り';
+        var ab = card.querySelector('.act-arc');
+        ab.innerHTML = archived ? '戻す' : '&#10005;';
+        ab.title = archived ? '元に戻す' : 'アーカイブ';
+        if (visible) shown++;
+      }});
+      panel.querySelectorAll('.day').forEach(function (day) {{
+        var any = Array.prototype.some.call(day.querySelectorAll('.card'), function (c) {{
+          return c.style.display !== 'none';
+        }});
+        day.style.display = any ? '' : 'none';
+      }});
+      var msg = panel.querySelector('.empty');
+      if (shown === 0) {{
+        if (!msg) {{ msg = document.createElement('p'); msg.className = 'empty'; panel.appendChild(msg); }}
+        msg.textContent = arcMode ? 'このカテゴリにアーカイブした記事はありません'
+          : (guideOn ? '記事がありません'
+            : '新着ニュースはありません。上の「攻略・まとめも表示」で表示できます。');
+        msg.hidden = false;
+      }} else if (msg) {{
+        msg.hidden = true;
+      }}
+      var tab = document.querySelector('.tab[data-target="' + panel.id + '"]');
+      if (tab) tab.querySelector('.count').textContent = shown;
+    }});
+
+    var favShown = renderFavPanel();
+    document.querySelector('.tab[data-fav-tab]').querySelector('.count').textContent = favShown;
+    arcCount.textContent = Object.keys(arc).length;
+  }}
+
   document.querySelectorAll('.tab').forEach(function (tab) {{
-    tab.querySelector('.count').textContent = on ? tab.dataset.countAll : tab.dataset.countNews;
+    tab.addEventListener('click', function () {{
+      document.querySelectorAll('.tab').forEach(function (t) {{ t.classList.remove('active'); }});
+      document.querySelectorAll('.panel').forEach(function (p) {{ p.classList.remove('active'); }});
+      tab.classList.add('active');
+      document.getElementById(tab.dataset.target).classList.add('active');
+    }});
   }});
-  document.querySelectorAll('.day').forEach(function (day) {{
-    day.style.display = (on || day.dataset.visible !== '0') ? '' : 'none';
+
+  document.addEventListener('click', function (ev) {{
+    var btn = ev.target.closest('.act');
+    if (!btn) return;
+    var card = btn.closest('.card');
+    var id = card.dataset.id;
+    if (btn.classList.contains('act-fav')) {{
+      if (favs[id]) delete favs[id]; else favs[id] = readCard(card);
+      save(FAV_KEY, favs);
+    }} else {{
+      if (arc[id]) delete arc[id]; else arc[id] = Date.now();
+      save(ARC_KEY, arc);
+    }}
+    refresh();
   }});
-}}
-showGuide.addEventListener('change', applyGuideVisibility);
-applyGuideVisibility();
+
+  showGuide.addEventListener('change', refresh);
+  showArchive.addEventListener('change', refresh);
+  refresh();
+}})();
 </script>
 </body>
 </html>
