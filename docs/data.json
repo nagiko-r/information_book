@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T18:34:30.165772+00:00",
+ "generated_at": "2026-08-17T01:28:31.910520+00:00",
  "categories": {
   "pokecen": [
    {
@@ -8,18 +8,7 @@
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rYTVkODVGUUtEZXhCQkRRUjMwc2dkRmFVX3NyWU03OWFhczF6QnNEQnJ4UXJyOWRRb1c4RnVyWXpOWWF6dnV0YW9TUTY?oc=5",
     "source": "SNKRDUNK",
     "snippet": "",
-    "ts": "2026-08-16T13:54:37+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "b25e6e395e04d73c",
-    "title": "【ポケカ】30th CELEBRATION(30th セレブレーション)の予約・抽選情報まとめ【8/16更新】",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16Y1BNa2hNSWxFV2JrY1hqWVE0WEFYZXphTFVIQXJSWjJvUjNvNV9xUWRsWFE5RklTY3BnWDJYaUVWaUhMdmI1ZnRfdWg?oc=5",
-    "source": "SNKRDUNK",
-    "snippet": "",
-    "ts": "2026-08-16T13:20:43+00:00",
+    "ts": "2026-08-16T15:41:59+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -31,6 +20,17 @@
     "source": "玩具人 TOY PEOPLE",
     "snippet": "",
     "ts": "2026-08-15T12:12:59+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "842639a05dc54f94",
+    "title": "ダサかわセーターで冬を乗り切る！ ポケモンセンター「Heartwarming Christmas」で聖なる夜を彩るグッズが登場！",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBdHNzNFV1N1JweHh6TllpdzJFd3BGY3NELUk2RHRCYkl5dFpSNnoweEZqUlpnMWJkakFVN3JUZGU3VFFhVnh1NndJTU5CYjA?oc=5",
+    "source": "玩具人 TOY PEOPLE",
+    "snippet": "",
+    "ts": "2026-08-14T20:07:59+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -61,7 +61,7 @@
     "id": "41fac466cace6a3f",
     "title": "歴代『ポケモン』のカートリッジがキーホルダーに　ポケモンセンターオンラインにて受注販売開始",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FOEFULV9fRVhDZG12Z3BjV1lKYkZ2ZTFKUDVuelFWNi1GWVBYOGlkaUlPUDlxXzNIZlFCMzhGNWx3NEt2V180aE9DNHM3NU9zSllUSXhlSFUycndCVVkwedIBZkFVX3lxTE1mWGpGVVRlbTVLSmttcUhXbURhSVhXaVg3WlJNWEYzcE5ueDhnOGRLbjNocTVfMVlNSGsxNElGYnFaNmdMTzl4ei14eGZDeG8tdTFRc28wVVllREJWcGxETURkcUFZUQ?oc=5",
-    "source": "リアルサウンド",
+    "source": "realsound.jp",
     "snippet": "",
     "ts": "2026-08-12T09:30:21+00:00",
     "type": "news",
@@ -201,6 +201,17 @@
     "summary": ""
    },
    {
+    "id": "89a0cac00f20a805",
+    "title": "『ぽこ あ ポケモン』ブロックを模したポーチが気になる！「ピカチュウ（うすいろ）」のマスコットなど、新グッズが発売",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10WHlvRjNVdzJoVTB0dVFGSHNxbFVjdmtXQUVPVkJLR3VrY3R1eURaZjBZejAxSWZWRWxxLTVzeGp0Nmswb0hxRXQxWkktbXVocWt2TDY4Rk1UYjA0dWlMOFEtb3VZajg4b2c?oc=5",
+    "source": "インサイド",
+    "snippet": "",
+    "ts": "2026-08-04T07:00:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
     "id": "3389dbe8be74a0a3",
     "title": "「ポケモンカードゲーム」30周年記念商品の抽選応募受付を8月10日より順次開始。本人認証を完了させると当選しやすい",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqdk1ta0xTNFhIYVlNTHdTcjB1UGxlYmUzOENheGgtbDNGQVoweER0VFNFMk5uRjlIUDZFU3ZmQXhxcXB2N21ZcXlDMHFKdDBqMWhmdnl3U0lhd1VEWVJTek1Cbw?oc=5",
@@ -234,17 +245,6 @@
     "summary": ""
    },
    {
-    "id": "e37e2ff37758947e",
-    "title": "「ポケモンカードゲーム30周年記念商品」ポケモンセンターでの抽選期間と応募方法が公開！ 17枚目の写真・画像",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhSTdiTWtvRWN0UWtGcE03eUdxemd0czl4Q2R4YlltWnpmMWcwNVFaeWp3N1dCU1VYUnpqQjR5eThaZkFKdldXdkJaTTI3Z3I5TVM1R0RLLUVmSkNoN3k1Q1Bwby04ZXZQcXJqNkdnQUxuQ3BHSnJR?oc=5",
-    "source": "インサイド",
-    "snippet": "",
-    "ts": "2026-08-03T07:05:02+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
     "id": "0a3a21680e051cc9",
     "title": "『ぽこ あ ポケモン』関連グッズが8月5日発売！ うすチュウのしっぽがキュートすぎるマスコットなど、まとめてご紹介",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuTTdBaER5aHpUV21qcXNBVzJrMTRnaEdKSjZiZnVkSVZiQTlXV1NqM3lsdkM3cE5CenNXUVVyQTFoZC00UjJ1YzJ2R0ZiVUswX0RoZDBMMmVPYndtXzFNQzZfTkluRVJBUWc?oc=5",
@@ -267,10 +267,10 @@
     "summary": ""
    },
    {
-    "id": "6b85f3565673d6ff",
-    "title": "【ぽこポケ】「ぽこ あ ポケモン」新グッズを撮り下ろしで紹介（GAME Watch）",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80SHNZaWZlV2loTlk0aTJrVkJoNXlaR3Nnc1AyeTkycXQ1NFNNcjZtMkpnaE5vc0oxY2duRGh3MXRDTHdtdnJhQlNDdS1qbFdHNzFscFQ1RDE0c1hEZVZzWFlBRzVwaXdTZ2hIeWRxb0xlY0xOQmtDbmZ1UF9samc?oc=5",
-    "source": "Yahoo!ニュース",
+    "id": "265d2f0ba247f4c4",
+    "title": "「ポケモンカードゲーム30周年記念商品」ポケモンセンターでの抽選期間と応募方法が公開！ 1枚目の写真・画像",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yeUhFR2F6UU9UeldhT01JM2gwUUsxamZTS2pJVmRpMDFUNzlndEs0dEpwc3lHR1Z0MmktQnV1ZFBIaU41cklza0J1WENjUmYtUGw3eTVpQ3lfYTBMbkp3alluYUdCQVktNTVJR1ByZW1iZ1hKUk1pcjZB?oc=5",
+    "source": "インサイド",
     "snippet": "",
     "ts": "2026-08-03T07:00:00+00:00",
     "type": "news",
@@ -278,10 +278,10 @@
     "summary": ""
    },
    {
-    "id": "a6caff989918f6c0",
-    "title": "「ポケモンカードゲーム30周年記念商品」ポケモンセンターでの抽選期間と応募方法が公開！ 7枚目の写真・画像",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xYUlEb2RLUGFpdTRxMkhzU0NGLW9BazVjbDhKU3J0SjhCempLYnFVeTNpVVF0SVZSS0lMc3NoRmxMTWItXzJEREgtS2hiX1pMcWMzbUNUbXRTX0xaU2hGUWhqTXQ0Sk1BWUhNcXRuQWFGai1OTWM4?oc=5",
-    "source": "インサイド",
+    "id": "6b85f3565673d6ff",
+    "title": "【ぽこポケ】「ぽこ あ ポケモン」新グッズを撮り下ろしで紹介（GAME Watch）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80SHNZaWZlV2loTlk0aTJrVkJoNXlaR3Nnc1AyeTkycXQ1NFNNcjZtMkpnaE5vc0oxY2duRGh3MXRDTHdtdnJhQlNDdS1qbFdHNzFscFQ1RDE0c1hEZVZzWFlBRzVwaXdTZ2hIeWRxb0xlY0xOQmtDbmZ1UF9samc?oc=5",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-08-03T07:00:00+00:00",
     "type": "news",
@@ -340,7 +340,7 @@
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16Y1BNa2hNSWxFV2JrY1hqWVE0WEFYZXphTFVIQXJSWjJvUjNvNV9xUWRsWFE5RklTY3BnWDJYaUVWaUhMdmI1ZnRfdWg?oc=5",
     "source": "SNKRDUNK",
     "snippet": "",
-    "ts": "2026-08-16T16:21:52+00:00",
+    "ts": "2026-08-16T20:25:27+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -401,19 +401,8 @@
     "summary": ""
    },
    {
-    "id": "c0bbad3799879582",
-    "title": "【ポケカ】ブラッキーex SAR仕様の買取相場予想や発売後の高騰考察｜30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhTmEtZ2dVYkg5RTF5SmdTTG1FUERHMWMxdXdXeFh6Ynlnc04yVDVJOF9qV2w0cjhHTWtSU29vbXltY2MtXzVGcG5NRDg?oc=5",
-    "source": "SNKRDUNK",
-    "snippet": "",
-    "ts": "2026-08-16T02:25:49+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "d0a481095d9d44ba",
-    "title": "トレカの抽選・予約情報まとめ「トレゲト」当落率情報・応募管理等の新機能を追加！",
+    "title": "トレカの抽選・予約情報まとめ「トレゲト」当落率情報・応募管理等の新機能を追加！ | トレカプロ株式会社のプレスリリース",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fRXFiaUtJM09aZ3lobFBUVUpvYnF6U2ZTUU9JYWMycngzSW93VVZBc2FsZVZTTWtNSUl1VFZfRkZHUzRnTEZCZUU3UmNaNXFfRjkySjZPdGVEVm5JbDRRZ3p6ck1SejFfNEE?oc=5",
     "source": "PR TIMES",
     "snippet": "",
@@ -426,7 +415,7 @@
     "id": "81720b26d17756c9",
     "title": "ポケカ30周年「30th CELEBRATION」9月16日世界同時発売、杉森建氏ら30人のピカチュウを収録",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zNko3a3RJUWNJcWk4OVhsT1V1NUNMZVYyYjMyUHg2TkxZWmV3Ylh6eXdKYTMzWG1UNi1XU1dhYnJHSzZWXzZ5R0JWenBkeUdnTks5TnIwTEtURUZ1bDF0ZmVzc9IBaEFVX3lxTFAzaThaMkNfUTdJQUM3NUx6NFN6Q2U4UUJpcV9zZW04MkpPbVBEMURaWnZQb0FveUh3djN3Z2U1cG1FcVNhMW55dUdCSmNPcVhBcHN2RW10WkhGQUhLQnhsQVgwSEdGamhS?oc=5",
-    "source": "zaikei.co.jp",
+    "source": "財経新聞",
     "snippet": "",
     "ts": "2026-08-15T06:33:10+00:00",
     "type": "news",
@@ -437,7 +426,7 @@
     "id": "60b16f9ffe68c4c8",
     "title": "【ポケカ】Amazon抽選販売まとめ。30周年パックやエーフィ＆ブラッキーデッキ、ストームエメラルダ、MEGAドリームex、スタートデッキ100など",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNLVZlTHNIeExBNVB2Qkl4dzZKYm5laVROUklFNXdoUVZDUUduUWpWeXVGWTBwQ0dyeEpnaXdEZVN1dVlmbUNfNlE5UjB4WTVvLVY5aUV3VQ?oc=5",
-    "source": "ファミ通.com",
+    "source": "famitsu.com",
     "snippet": "",
     "ts": "2026-08-14T13:00:00+00:00",
     "type": "news",
@@ -591,7 +580,7 @@
     "id": "287f82771ee0767c",
     "title": "2026年に発売予定の、最も高額なポケモンカード上位5枚。",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNkt4c2c2WnZfa1Iydk9BQmlYWGRZaTdiZ0RrVXFVa002RnFKcU1KMTl2MHZ1MmVtYzlLaFVFLXhKWWlweTd5QjFUWHpmVWpsUEZRRGdvbjZyYlR4TTlKb01JYTRrc2RZc2U2R1A3dk5PQ2VDam1LZEJYMFhjU25nZ0s0NVNZQQ?oc=5",
-    "source": "Vietnam.vn",
+    "source": "vietnam.vn",
     "snippet": "",
     "ts": "2026-08-12T00:00:31+00:00",
     "type": "news",
@@ -660,6 +649,17 @@
     "source": "ポケモンカードチャンネル",
     "snippet": "©Pokémon/Nintendo/Creatures/GAME FREAK\nポケットモンスター・ポケモン・Pokémonは任天堂・クリーチャーズ・ゲームフリークの商標です。",
     "ts": "2026-08-10T10:05:29+00:00",
+    "type": "video",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "ee222d3c2ca3f06d",
+    "title": "【検証】対戦中にダメカンは何個のせられる？ポケカの限界に挑戦！【ポケモンカード】",
+    "link": "https://www.youtube.com/watch?v=g_gjq5-PL9U",
+    "source": "ポケモンカードチャンネル",
+    "snippet": "よぴふっとの「ポケカの限界に挑戦」、第2回は”ダメカン”の限界に挑戦！\n対戦中にダメカンは何個のせられるのか！？\nみんなも挑戦してみてね。\n\n＜ポケモンカードゲームの最新情報や対戦動画などをUPします！＞\nチャンネル登録よろしくね☆ミ\nhttps://www.youtube.com/@PokecaCH\n\n▼この動画の関連動画はコチラ！\nhttps://youtu.be/IxStFgJHICo\n\n\n☆ポケカを始めてみたい方はこの動画でルールを覚えよう！☆\nhttps://youtu.be/3Ixc4sKaABA\n★「ポケポケとポケカの違い」まとめ★\nhttps://youtu.be/dRqILG",
+    "ts": "2026-08-10T10:00:36+00:00",
     "type": "video",
     "guide": false,
     "summary": ""
@@ -779,17 +779,6 @@
     "summary": ""
    },
    {
-    "id": "2ce30397b4a379e8",
-    "title": "【ぽこあポケモン】水中に連れていけるポケモン一覧【ぽこポケ】",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XMk9PODNFbkxRWk02YnJ2bW5TWFUyX0dZb3ZKQWNIeWF5b0dXX092M21fRzUtbFdSR0NQUUpvUVZ3c0dCbW03ZE9PQnVvcHZV?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T08:17:01+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "50446daca6806eea",
     "title": "任天堂株が急反発､「ぽこ あ ポケモン」好調－上昇軌道に回帰との声 フォトギャラリー | TBS CROSS DIG with Bloomberg",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQkx3MmN2UW5NZGlyN05CY1Y4MEZsX0dRS3FXT0tQRWlzY20zdmNiWGlpNHhpNVR3Y24yRmVPZVEyWFpYT1JDVjEyV3BodkdQWE51X1RpSk5PWjV3c1l3TWZyb0g2QWRCODh5cm05eFV6a3Y5c0IyVDhiOF9hMlRLbE5uaGxXcHc?oc=5",
@@ -837,7 +826,7 @@
     "id": "06dec7c727f062d9",
     "title": "『ぽこ あ ポケモン』世界販売500万本突破、発売約4カ月で大台",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvRXAyUnNlUnJKTktJX2IwQ3U0NEVFNlhQeFN2LWJYWkRWNEdPRXlvMnMwQXpiakFoeEFnV3BCOG1QQzNtU2g4U01lcy1ES3B2S1J2SVJsSTFDWmEzQUt6VzdRcmtxdVpF0gFoQVVfeXFMUG9FcDJSc2VSckpOS0lfYjBDdTQ0RUU2WFB4U3YtYlhaRFY0R09FeW8yczBBemJqQWh4QWdXcEI4bVBDM21TaDhTTWVzLURLcHZLUnZJUmxJMUNaYTNBS3pXN1Fya3F1WkU?oc=5",
-    "source": "zaikei.co.jp",
+    "source": "財経新聞",
     "snippet": "",
     "ts": "2026-08-15T13:46:00+00:00",
     "type": "news",
@@ -873,17 +862,6 @@
     "source": "shiritomo",
     "snippet": "",
     "ts": "2026-08-15T09:14:19+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "73c9a8a17af5e118",
-    "title": "『ポケモンバンク』2027年2月26日12時をもってサービス終了―利用者は『Pokémon HOME』への引き継ぎをお忘れなく",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NTzZrMVAyQmFxcEVadWNFUGk4dXAzb2tWdDhJQTJOcWNLWFNQN19KWU1HSndXMU13X09tcHhieXR5VWxud19uejU3WlhKVVJTTm1XdzB3dmw5Y295WEZqSWo1djNFT1Bl?oc=5",
-    "source": "GameBusiness.jp",
-    "snippet": "",
-    "ts": "2026-08-14T23:30:03+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -969,7 +947,7 @@
     "id": "050968b4829fad49",
     "title": "『ぽこ あ ポケモン』発売約4カ月で世界累計販売本数500万本突破　有料追加コンテンツも配信中",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2QWNYMy10RHBGQndCTEdLQVdsWnl0ZzhpM3hfczdiU1NFRUp0VEZwUkZoc3p2eGxOdWJTTHBiQmEzTVBlNXJOUDg1NnRLLVNpem5ETkdfdXB0VDV0NDFIctIBZkFVX3lxTE9NcGlSZ0lwbE1wakdRMEljUDV5aTBMaUZxbmYydk1HVE5pYVZDN2hXZjRIaTg5SWQ0c3lOcWcxZGdyTWVlSVFVNHFCczhsSGIxeU9wY0lGdVRQNER3cmNJWG5oX1VRdw?oc=5",
-    "source": "リアルサウンド",
+    "source": "realsound.jp",
     "snippet": "",
     "ts": "2026-08-14T07:01:29+00:00",
     "type": "news",
@@ -1035,7 +1013,7 @@
     "id": "beb817620f57e9ec",
     "title": "『ぽこ あ ポケモン』ついに世界販売500万本突破、発売約4カ月で大台に",
     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Db1JXRWNDTzBWZ2tZRnY4Q3lWMFI3RGhGWjdfeUtMMGRidGRDMzdpN1h5RklQWVZDRzh6a3Yzajg1YWxuVERTTnZEX0U3ZG1fRDRtMnR1U1R6VTVpT193R2VGZTVtZw?oc=5",
-    "source": "gamespark.jp",
+    "source": "Game*Spark",
     "snippet": "",
     "ts": "2026-08-14T03:25:02+00:00",
     "type": "news",
@@ -1046,7 +1024,7 @@
     "id": "bc7547391abf4fb4",
     "title": "『ぽこ あ ポケモン』ついに世界販売500万本突破、発売約4カ月で大台に 2枚目の写真・画像",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4MzlnTmlQY2ZOeGVEdnVNOUllTXdqOHh0aTBseHdXT05jSl9wSDNkZ2VLZERWMnBObkpGYVVuVmJoVm85Zks5RHh5dE4wY0RZbU45M3hMUnpQV2poM3lTNC1nc2doSUE2QmJscTNpMktSd25o?oc=5",
-    "source": "gamespark.jp",
+    "source": "Game*Spark",
     "snippet": "",
     "ts": "2026-08-14T03:25:02+00:00",
     "type": "news",
@@ -1096,16 +1074,170 @@
     "type": "news",
     "guide": false,
     "summary": ""
+   },
+   {
+    "id": "300e13ff32b99f24",
+    "title": "『ぽこ あ ポケモン』ついに世界販売500万本突破、発売約4カ月で大台に 3枚目の写真・画像",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55a1Zqa3htelZvcUtzeFBRUHM1YVI1YWFHQmpoMmFObkp0VnozZkJ6ZnFsakxNNTI4TVdxWHhLcU5TQ1JXZVFCcWZvM19HZkFuY1VENnlpb1R1VnktblN1Y0ExNkJjaVl3Mk9HTFloeW5FRmJxcHZR?oc=5",
+    "source": "インサイド",
+    "snippet": "",
+    "ts": "2026-08-14T02:45:03+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "61ec4ee2ee835c44",
+    "title": "「ぽこ あ ポケモン」の世界累計販売本数が発売後約4カ月間で500万本を記録！",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYWUFoWTMyUzRVTXU2dU9OSE4wTFFxbUJHQVpDVFc5RDZuZmU2YlAxMXNWQTdJZWx4aW05VFRKNVMxSDllSDcxQ3o5UlVjdDhaS2d4RQ?oc=5",
+    "source": "Gamer",
+    "snippet": "",
+    "ts": "2026-08-14T02:26:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
    }
   ],
   "champions": [
+   {
+    "id": "f12a557aed80b750",
+    "title": "【ポケモンチャンピオンズ】ランクマ上位構築パーティ一覧(M-4構築記事)",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kNVBkMWhUdHo4V1Jic256TGN0aERFVTR3NkRET0YzQ2ZoN0xBcXJCZjJHeThpVFc2a0lnRTB3Q3R2ajRjUE0zSlR4V2x1SElBbzFTOXlZcw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T20:28:12+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
    {
     "id": "e9c09f3588da2113",
     "title": "【ポケモンチャンピオンズ】メガマフォクシーの育成論と対策・パーティ",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1bnFjNHdjaDVTdkVIZlBfcXlzV1hqWjd2al82dGRiV3BxdzlaYjNaVElISVZtZFJaRUdzOUc2X3dqTjZhYnBuWGdNOWJnMVFUTUpTb2R1QQ?oc=5",
     "source": "GameWith",
     "snippet": "",
-    "ts": "2026-08-16T16:25:55+00:00",
+    "ts": "2026-08-16T20:19:33+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "85acd39a7749fed4",
+    "title": "【ポケモンチャンピオンズ】ハッサムの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oam1fN0daal9yckppVGh2SWNTbk5RWjhYT0hSOVctQ2ZSbG5rUTlaT0tQUElkOW9tclBlT09jZzZ4MkZ1aDBqeVg2VzA0M3hMcUNMSTRXMA?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T20:15:14+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "027ce1d3ea0a0f8e",
+    "title": "【ポケモンチャンピオンズ】晴れパの対策と構築【ポケチャン】",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlR05RN2Q0SG9iVnVnQXlvdlFJcDdXczNibkhrTGktWHpKQkZxVnBIV2g4Z0lDS0hod2dWaHVUV2xKOUtQdnZZS2N1VDZrX3dxenlHOU9SVW4?oc=5",
+    "source": "AppMedia",
+    "snippet": "",
+    "ts": "2026-08-16T19:35:24+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "0f9c39b868a73faf",
+    "title": "【ポケモンチャンピオンズ】ウルガモスの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HOE1JZmx0YzA5d25ZRm9kWk5WRFhieWlQeXd1bDFtX29Jb0N0RklYZEJiVjdmT3hFY05OLTJ3MExuSDZVZXRzdzh2a1ZhOWNGOVZlNHIxUQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T19:21:06+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "b215a97eda40e977",
+    "title": "【ポケモンチャンピオンズ】ブラッキーの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCc0lBMllxbm1kNjEzMW45RHRmNi1nV1dReGpiRlpJMGFFZThRVTNUNnlNcEoyRWlyYzFGNDc1QmlieW91ZlNNZ2xmZWNBWmdEQXVrSUpiYw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T18:48:13+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "9f14349bff27678f",
+    "title": "【ポケモンチャンピオンズ】サーフゴーの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YRmZyR3NuaDllX3Q1THgtV3BSbENvTVRWbDA3dEV5VFF6VThENnVXVE9xSzY3S0daTzhfVkhPam5RbnpjWjNDQWhFLVJ3VjhIRHQyUks0MA?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T18:12:12+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "47c2af1e81fd3fc8",
+    "title": "【ポケモンチャンピオンズ】最強パーティランキング｜おすすめ構築",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EdWU0U1ZLN0JWN014VklDeHRpQUFRYVJpMF9LMU1UWnZ2Y1ZZa2xDb2JhUUlXdHRZM0JzM3FsQk5WRXRuNHA0RS1xcktKaF85WkpIbFF6aw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T18:09:03+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "a79211619e106650",
+    "title": "【ポケモンチャンピオンズ】ガブリアスの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CRTB4V0RydFFlazJkT3Bpd29TLW5oLVloQW1CcHpNTEFGNnZnVDFrbEdwRkVEWmNLNC1kZmd2dWFrck5SWXhoRHZDR0hBWlJaLWVnQjRsQQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T17:23:23+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "9ec3f6afe8e869c1",
+    "title": "【ポケモンチャンピオンズ】メガゲンガーの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xeml3anZDWEZxUDFoWS02MmVoRVp5YUVJaUpkSlBzZUMyS2hSSkRkY1BPYkxFSEh0Y2dRZ1RabmhIMU9HckVVZXMyS255UkdHODZwRkZYOA?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T17:03:12+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "cb85d9cd5713878d",
+    "title": "【ポケモンチャンピオンズ】メガリザードンYの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Hb1k5R0ZQelNMa1FSV28ySC1oQ3Q2aHFQMC1rSkhNYnZqcnkzYXZHSkdyZUhLeUtuN1FUbVNNcFB1dmVPNTVGbzdvdjJ1WG1HbkZ2NklUYw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T16:26:25+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "fb81b1033591958e",
+    "title": "【ポケモンチャンピオンズ】ゲッコウガの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FVFA0TFVIaWMtWk5QUVhzdHJkMXFlWF9GNVAtaHlUcnZvT3BJbUY2VTdPeWdhUG12ZzEzdHU3aXg3LXUzanFZblNkZUJDX25mcFJSZHl0bw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T16:25:33+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "0cd7e4b1b11b1583",
+    "title": "【ポケモンチャンピオンズ】ダブル最強パーティランキング",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9td0tuUVlUU1hkM3dNQmRKeEpMNFQ1THIzS2cxc2dsY2w1QWt5a09XTDhPTkhiX2FlSWNWcVZrWllfWGlKMFJvSTFMRFh5MkZhWDFSckZHSQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T16:07:17+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -1122,6 +1254,17 @@
     "summary": ""
    },
    {
+    "id": "c274679444b0c624",
+    "title": "【ポケモンチャンピオンズ】メガピクシーの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKNHRiVmJBRHdwWVA3cjljVDlGSUxLdGxmZjIzM0M2bWVUMFNtSTRMTmJGNmhUMmhnd2V5Vm9ic1ltaTZUMGRKa01ucUNtaV9BN0VWOVdqOA?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T15:37:27+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
     "id": "7b038a347297683c",
     "title": "【ポケモンチャンピオンズ】サザンドラの育成論と対策・パーティ",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5Ba19GNXBFTW02M1VGZjNIV2lGeHoyelV0cHMwcTkydmRVamJRN3h3eUZUNjRibVgzMWpUb2FJRjRicFpCYmNjOHlfQ1UtQnFCZzV1ZUVKOA?oc=5",
@@ -1133,12 +1276,34 @@
     "summary": ""
    },
    {
-    "id": "9f14349bff27678f",
-    "title": "【ポケモンチャンピオンズ】サーフゴーの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YRmZyR3NuaDllX3Q1THgtV3BSbENvTVRWbDA3dEV5VFF6VThENnVXVE9xSzY3S0daTzhfVkhPam5RbnpjWjNDQWhFLVJ3VjhIRHQyUks0MA?oc=5",
+    "id": "cb7f972eab4b824e",
+    "title": "【ポケモンチャンピオンズ】おすすめの最強特性",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CWlR2OHRNT19VWjJlSkVGYnZ1RGVyVXQ0TmQ0NDREYnczRzExVGZfZnplUEt2d1NvYXUtczZaNnNSVk5CU3BxbmRnV1haZ05sOTA1eXFKaw?oc=5",
     "source": "GameWith",
     "snippet": "",
-    "ts": "2026-08-16T14:55:22+00:00",
+    "ts": "2026-08-16T15:19:32+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "28807193d8e6613e",
+    "title": "【ポケモンチャンピオンズ】性格のおすすめと変え方｜能力補正【ポケモン対戦】",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Hc01qTlpiU3pvdGRKQUZmTHQyWnpGMzNkQWQ2LTdrVF9oMl9SanFDNV9pd1kzNTVvWHloQmR1d0pFTUptNHBPUktTcUJ1clRRVlhzVHB3eVk?oc=5",
+    "source": "AppMedia",
+    "snippet": "",
+    "ts": "2026-08-16T14:20:51+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "b9d2dbdcd4f30b18",
+    "title": "【ポケモンチャンピオンズ】メガズルズキンの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50SE04cldrTURsTjZrVVlKLWF0aEJtckJqTkxBVV9pc1VVXzEwVlRiTUh4ZWtwNG0zZnJmU24xMFhTaEdkZTN3cjFrZ2lMZGZfaWpxdkxxaw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-16T14:10:38+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -1172,17 +1337,6 @@
     "source": "AppMedia",
     "snippet": "",
     "ts": "2026-08-16T13:52:51+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "28807193d8e6613e",
-    "title": "【ポケモンチャンピオンズ】性格のおすすめと変え方｜能力補正【ポケモン対戦】",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Hc01qTlpiU3pvdGRKQUZmTHQyWnpGMzNkQWQ2LTdrVF9oMl9SanFDNV9pd1kzNTVvWHloQmR1d0pFTUptNHBPUktTcUJ1clRRVlhzVHB3eVk?oc=5",
-    "source": "AppMedia",
-    "snippet": "",
-    "ts": "2026-08-16T13:52:47+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -1274,160 +1428,6 @@
     "type": "news",
     "guide": true,
     "summary": ""
-   },
-   {
-    "id": "c274679444b0c624",
-    "title": "【ポケモンチャンピオンズ】メガピクシーの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKNHRiVmJBRHdwWVA3cjljVDlGSUxLdGxmZjIzM0M2bWVUMFNtSTRMTmJGNmhUMmhnd2V5Vm9ic1ltaTZUMGRKa01ucUNtaV9BN0VWOVdqOA?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T12:36:13+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "19e26e079f718667",
-    "title": "【ポケモンチャンピオンズ】最初のポケモンのおすすめ・だれを選ぶべき？",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oa0V3eWpCaHJrVlJ0RWxVaXRNWE5LeERRMzZIcy1tZ1pfOThEeGVreGRUVzRBR1JTRWk1bFpOd0lzcmFFdFk3d3FqUWZsMEg4cWJKT09ISQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T12:29:26+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "ca96e0b623e268f5",
-    "title": "【ポケモンチャンピオンズ】ソウブレイズの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0SXYtSUhFN2lUYkhueFF4bmZGTzZzb3ptOTFTUjRmN1FRT0RSc2R2NmVIZTRKTHhSRHduc2haMm50QkdBN2RjZEhjeURzQ1M4REtKQkVUVQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T12:21:05+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "f12a557aed80b750",
-    "title": "【ポケモンチャンピオンズ】ランクマ上位構築パーティ一覧(M-4構築記事)",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kNVBkMWhUdHo4V1Jic256TGN0aERFVTR3NkRET0YzQ2ZoN0xBcXJCZjJHeThpVFc2a0lnRTB3Q3R2ajRjUE0zSlR4V2x1SElBbzFTOXlZcw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T12:16:23+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "e4aac48c330ed558",
-    "title": "【ポケモンチャンピオンズ】オオニューラの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52LWx4VV9YVzdBNXlyNlhtd0ROZVFnblAwckNCNmd5YWRzME5ObmhBSnJuWTdwTDNmcnJHamNFTnpmWTI0RGRiVTgyS193WXRIV1M3U0VGSQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T11:49:10+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "106f124aa9719493",
-    "title": "【ポケモンチャンピオンズ】TODは廃止された？【ポケモン対戦】",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uNUM3TGlFd0oyQ0taMU4wSzJhMUNvbTdLeVFtQjVJRm5hanJyb2xCQXhJdlh1aUZMTW1lLWh1MnE3NjJJaW1YWGc5a3A4YS10RmpWVlp1SHU?oc=5",
-    "source": "AppMedia",
-    "snippet": "",
-    "ts": "2026-08-16T11:49:07+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "29f2410b5d685b97",
-    "title": "【ポケモンチャンピオンズ】ドリュウズの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iZVdsU3BiUTJRSHJnNTNDLXYydU9VblFiYlFrdWRsSDJsdkVZck94QWpmZHpUYnNRR0JLTTl1UG1FSjhOOGNXNW1ITUhoVzU4cWdFYzVhQQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T11:39:23+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "16820f47be460138",
-    "title": "【ポケモンチャンピオンズ】メガスコヴィランの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LR1NpbXVDT1hVeEJEUEkwOW53Z19MUllwN2lJa2hzMlVOWHdZZVdZM1hfRkg4RVRFT3JMdWY2Zi1NU01CbV9VZ1dPRVkyclN5NktmSkdyOA?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T10:56:47+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "a79211619e106650",
-    "title": "【ポケモンチャンピオンズ】ガブリアスの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CRTB4V0RydFFlazJkT3Bpd29TLW5oLVloQW1CcHpNTEFGNnZnVDFrbEdwRkVEWmNLNC1kZmd2dWFrck5SWXhoRHZDR0hBWlJaLWVnQjRsQQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T10:51:10+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "474d26d11fa2dd29",
-    "title": "【ポケモンチャンピオンズ】取り返しのつかない要素【ポケモン対戦】",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qUnFqS3R3eWRPNXBMLU1KZVVsbUpBVFBxMU9BVWpUc2R3ZUVURWJpb3NlSjFCMTJ5eXF6cGNVMERsdmhUYkotaDBBRDJFc3NOSWVrWFlWeUc?oc=5",
-    "source": "AppMedia",
-    "snippet": "",
-    "ts": "2026-08-16T10:36:23+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "8d8ade910d470f30",
-    "title": "【ポケモンチャンピオンズ】メンテナンスの時間と最新情報",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhRXJWR3kzVnFoUnRMUHNaTS02WmZ0OTlQZ3RPVk9LTlB2VmZOWThjb08tRzlUT0liR044bFQ4TEIyVVM4SDFHQ0VtNUxCOGVnRjk4Z1JnME4?oc=5",
-    "source": "AppMedia",
-    "snippet": "",
-    "ts": "2026-08-16T10:33:09+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "283b2f2c9b6cefcf",
-    "title": "【ポケモンチャンピオンズ】ドドゲザンの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5veTczcTFfdTltRksyM25OZU5uZS1tejNIaF9KUVZ4dG10NDNQcWR5UVJlT2Q0S0FOMkw0M1VzdUluaVJEX2laNkk5a2szeFJES1RBLUtwNA?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T09:52:38+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "50cc1b89d5d9e0f9",
-    "title": "【ポケモンチャンピオンズ】メガカイリューの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94dnVfUmhlczJxRTczV3pCQWlTdzc4c0RsQ1JLRl9yS2I1c2VuQmNEZlZCRkRSbzQycW9NU2tHVE52VUJ6eTBFbTZLUGpYVDQ3SHh4UEVJMA?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T09:30:20+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "c2f16c79c017a6e9",
-    "title": "【ポケモンチャンピオンズ】メガペンドラーの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81V1RSa1NaYy0tMktwSjV5YnBpQ25TN2o4a0xjV0xxb1RVYUpuM2dtQUZfaG5NMWRPckNuaUI2VFQ2YkMxVnpkV0RJN3VZakhaTlh2ZW1CUQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-16T09:09:09+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
    }
   ],
   "mainline": [
@@ -1509,6 +1509,17 @@
     "summary": ""
    },
    {
+    "id": "10ca622106291c71",
+    "title": "【ポケモンZA】ラルトスの進化と出現場所・おすすめ性格【ポケモンレジェンズZA】",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGT3IzVWx3NWdNQ29uRE5pSmUzWG1JNXpOMk94R3Z4NGYzWDVaT3JpaXg3R1RoVThsZzhLQWdfS3RwbHhxV1BKeGM3UUU2Zw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-14T05:55:21+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
     "id": "17d0d25c8fed541e",
     "title": "「ポケモンWCS2026」のライブ配信が決定！｜ポケットモンスターオフィシャルサイト",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4MEVMVlVrbHlLS2s0em5vVFBSbFl2MndzOGtfenVWdVExamcyUWxDS1pwQ1BCNFBzSGx5MmFQTnY3VTljQUN0MzFiWFRwQ3I5bEhEd3NLcjZKa3RvbTF1NUIxa0I?oc=5",
@@ -1520,12 +1531,12 @@
     "summary": ""
    },
    {
-    "id": "d88d3a6d1d7651a8",
-    "title": "【ポケモンZA】暴走メガレックウザの行き方と弱点・攻略【ポケモンレジェンズZA】",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qaElySFVMdm81dk1vWHRVbUxfcTZqU0k5amlBV0JxQThyZWhSb2w1Rldramtrc3ZwTlNlOVp1SmhTdE5KUE1kTGNUU0ZYQQ?oc=5",
+    "id": "3d896d1ad656af09",
+    "title": "【ポケモンZA】クリア後の解放要素とやり込みまとめ【ポケモンレジェンズZA】",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5WcndES2lBcVc4c2tzVlo5NWxVRWtVU2hSelpCTDZXZmFRQkxIeDNkLUQ4ejZxVWtUSTVjd2FhVDUxVXpWRXZKZWFDR00ydw?oc=5",
     "source": "GameWith",
     "snippet": "",
-    "ts": "2026-08-13T17:56:23+00:00",
+    "ts": "2026-08-14T00:06:19+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -1564,17 +1575,6 @@
     "summary": ""
    },
    {
-    "id": "0ac53961e56d79a7",
-    "title": "【ポケモンZA】カイリューの進化とおすすめ技構成・性格【ポケモンレジェンズZA】",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oZU1hZUxiMXpvRllGMERCemVJX3FuQU5qdmt2V3hrYmFQREN6R0REWGswekNmVHNyWFo5T2RUV2lMczNLVHdTdXNacG5ZUQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-12T10:13:27+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "aefe242a612fd186",
     "title": "『ポケモンレジェンズ Z-A』セイカとガイが『ポケマスEX』に参戦決定、2025年発売の最新作からパシオ入りをついに果たす",
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVOTFvYmlZZzMtS3NYb3Q3VXNSeER3Vmhya2t6VHVyWnlwWDljVnllblFLMk1ubjVxOUVhR3BRaXRwaXlES0t2bU1Yb0ZObUdST1lMX0pfQ1E?oc=5",
@@ -1600,7 +1600,7 @@
     "id": "05f2f1702aaef89b",
     "title": "【Amazonタイムセール】『ポケモンレジェンズZA』は7128円→4378円（39%オフ）、『ゼルダの伝説』Switchコントローラーは43%オフ",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TbU4xaUEtV1poNmwxTm9mVWhDazlCMDVKUGNFQjFnbmFrZk5xaVBGUHh1NUg3MU5ZUDFzMFpsOHRELTZ5NEx1czVuTS1Zc21YQ0FEbXBzYw?oc=5",
-    "source": "ファミ通.com",
+    "source": "famitsu.com",
     "snippet": "",
     "ts": "2026-08-11T07:50:00+00:00",
     "type": "news",
@@ -1707,17 +1707,6 @@
     "summary": ""
    },
    {
-    "id": "e543d2fdd96fd006",
-    "title": "【ポケモンZA】リザードンの進化とおすすめ技構成・性格【ポケモンレジェンズZA】",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GTDlfYVZTQ2tjYmZUNzdaYjAxSnFsWm1UbGYtQ3BFamg5Y29ybHJVVloyWFFHa0ZGbG5ZLVJnZFc1OHFXVExmVHB4aGp6Zw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-08-11T01:30:43+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "289a93f14c4bf37f",
     "title": "【ポケモンZA】オーダイルの進化とおすすめ技構成・性格【ポケモンレジェンズZA】",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hMkNsRHdqcnFvWVNLNlZmRkpzd25LM1V1NDMtOHlobjlaWHpqTnpid0pLOElQbkFBMGdGbDBRWmFYOEJ4MWswRF9yb2ZVUQ?oc=5",
@@ -1757,6 +1746,17 @@
     "source": "GameWith",
     "snippet": "",
     "ts": "2026-08-11T01:27:38+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "728f15ee2fc05308",
+    "title": "【ポケモンZA】与えるもの(メインミッション40)の攻略チャート【ポケモンレジェンズZA】",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1udlZrUC0xb3NvYzhISlhOSDlrRkh4dXJNY3NRMVFLYVpuYnltRG5uZlZDcXIyNnRNenowdlpOUW5UaTZVME16SzF2RXB5Zw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-08-11T01:22:50+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
