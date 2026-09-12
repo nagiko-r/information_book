@@ -1,25 +1,36 @@
 {
- "generated_at": "2026-09-12T15:17:03.701193+00:00",
+ "generated_at": "2026-09-12T20:21:13.697404+00:00",
  "categories": {
   "pokecen": [
+   {
+    "id": "f01f1fc65f7a3cda",
+    "title": "【ポケカ】30th CELEBRATION(30th セレブレーション)の予約・抽選情報まとめ【9/12更新】",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16Y1BNa2hNSWxFV2JrY1hqWVE0WEFYZXphTFVIQXJSWjJvUjNvNV9xUWRsWFE5RklTY3BnWDJYaUVWaUhMdmI1ZnRfdWg?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-09-12T15:22:57+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "ac66eaff0e985da5",
+    "title": "【ポケカ】スターターセットex「イーブイex」「ゾロア&ゾロアークex」「ニャオハ&マスカーニャex」の予約・抽選情報まとめ【7/23更新】",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KT3RUcXlaVjlfZnQxN1dnNy1IU3RuTmtKWVdIYjFFZlJQcUhkX0JueDllYmhlOVIwZlRyRlc3UFhBWFJXMWxvRHppSi0?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-09-12T14:55:03+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
    {
     "id": "979f706a225d4072",
     "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・予約抽選情報まとめ",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hMW53cGE2X2J5UDNaLWRXTkIwaGV0UzZNaC1wYUVSZVNtTWZqenpFMWUyYUpuZDZsZFlkXzFNOXpnMnd3VXB2RElJQU0?oc=5",
     "source": "SNKRDUNK",
     "snippet": "",
-    "ts": "2026-09-12T10:02:57+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "eacae26564913381",
-    "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rYTVkODVGUUtEZXhCQkRRUjMwc2dkRmFVX3NyWU03OWFhczF6QnNEQnJ4UXJyOWRRb1c4RnVyWXpOWWF6dnV0YW9TUTY?oc=5",
-    "source": "SNKRDUNK",
-    "snippet": "",
-    "ts": "2026-09-12T06:35:00+00:00",
+    "ts": "2026-09-12T12:05:28+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -28,18 +39,7 @@
     "id": "fba143351d31215f",
     "title": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選開始！今回も大半は「本人認証済みの方の当選分」として用意",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERGlscFdrOTk2aThiQmgtcHkxSDJrNHRYQVl5SUJTdmxJS0EyWmVfUjlZcFZqYnlUSDdFWWVuZmRzZUgtVkc2dFRGdFVGSl96elNZc0xSQ0ptMDFVVDQ1OGtTLWxMQmJXb1I5elVQNnhHUEpYdzFKYjFGMFVZV3M?oc=5",
-    "source": "news.yahoo.co.jp",
-    "snippet": "",
-    "ts": "2026-09-11T07:10:03+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "2a6c38034ecc6110",
-    "title": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選開始！今回も大半は「本人認証済みの方の当選分」として用意 14枚目の写真・画像",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pbXlIbXJSR2NRQjNZTkYtLTdYLWFMXzg3bnFCN0tuanB5N0xTMFZ2LWk0Sk1yZElGMVByN1dwMm15M0hhTU4yXzdGdk14dHZCX1FHUG45NnFWT2VPYTBZcE5sZjByaS1qRWcyNmMydDl3enpOeXBF?oc=5",
-    "source": "インサイド",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-11T07:10:03+00:00",
     "type": "news",
@@ -60,10 +60,10 @@
    {
     "id": "ec1c763b73eb2134",
     "title": "ポケカ30周年 FUTURISTIC BOX、定価27,500円で抽選販売！実売は4.3倍の11万円台！トレカプロが受付",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yTmpndmZfYjQwdkVMS3pRWTg3LUU4Ukc2emFnejRHXzZRa3QxdWI2eHlTVGhmbDJCbDRnTGRxallsOEdIR2ZOSkZlY2hyN0ZCQm1Mel9uUFhYOHA4VlRnSkJ6Vll0aGZMdmNXNHo4dTB1dw?oc=5",
-    "source": "Infoseek",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RMjRuNmNTSXd5OWJIWHc4NGhHUnFGbzRoUVJxMlpveC1xMGFCajgxVDdzakEyQlJFNGQwRTV0ZGEzcktvNExkSy0tT25SLVV6dVlMVjFMOEt5cGViUlNwWkV2MWs2bHlNMWc?oc=5",
+    "source": "PR TIMES",
     "snippet": "",
-    "ts": "2026-09-11T06:00:00+00:00",
+    "ts": "2026-09-11T06:00:02+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -190,6 +190,17 @@
     "summary": ""
    },
    {
+    "id": "540cdd47e74d8a4d",
+    "title": "9月12日より、ハロウィンをテーマにしたグッズ「Pokémon Magic Hour Illusion!」がポケモンセンターに登場",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiVHdNTVJOSUg3S0tsejVXYm9USnBSUTFwbWtPQmFDRnBFZy1yZ29LQ0hTdDRvLWl1UHRCVjIxWW8xTnRQTnF5T2NfekdkcF9PVFhScEZtQlY?oc=5",
+    "source": "Nintendo DREAM WEB",
+    "snippet": "",
+    "ts": "2026-09-06T04:33:57+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
     "id": "344f26a3b496cc4b",
     "title": "【ポケカ30周年】BOX未確保勢は35.9%→10.9%に！確保できた人の56.2%は2箱以上！ポケセンの当落発表を受けカード抽選まとめトレゲトが調査",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Xc0ozVi03T1VKa1U0V2haTG8wLV9CZ0R5ZFRPUGdvRVpWcDFhS3d6WkNRMmRxaFB3elhyM3JNSDNPaktLai1salBKU0JyakZhak5tNW41eEJ3S2xhckFHQmZyZjdxcXdGLWc?oc=5",
@@ -248,7 +259,7 @@
     "id": "986b1d14ab51cf39",
     "title": "【ポケモン】ハロウィンテーマのグッズ「Pokemon Magic Hour Illusion!」が9月12日に新発売（GAME Watch）",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FVkMzcTBOSWV3S3l6OHVTN3VEMWZRRTFxMnIzRV9rTUZHcmo5eHJLbmhvX3JjdEl4SU56MF9WSkttRmotTmJtQzI3Qm5ZNEI0VUhxbVo1R0RLblR3NnRrcmluYlpQSE1rWFpYNEtBY29WNDUzQUw3dzBoZU9FUkU?oc=5",
-    "source": "news.yahoo.co.jp",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-04T09:05:00+00:00",
     "type": "news",
@@ -292,7 +303,7 @@
     "id": "77bd1145843dc41f",
     "title": "【ポケカ抽選販売】30th CELEBRATIONなど30周年記念商品の追加抽選がポケセンオンラインで実施【9/11～】",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Jc3VZcmpYcHZtNW1Gdm1uT3h5NjNoeHBySnNZRi1hd283RTBiNGJwaG14d3I4T21EajlpZ1JlcHQxQ3VsSWo5aW40WGluOUVnOEs4TUhza2RlQQ?oc=5",
-    "source": "電撃オンライン",
+    "source": "dengekionline.com",
     "snippet": "",
     "ts": "2026-09-04T07:00:00+00:00",
     "type": "news",
@@ -320,27 +331,60 @@
     "type": "news",
     "guide": true,
     "summary": ""
-   },
-   {
-    "id": "44c00e4312d0371e",
-    "title": "【速報】ポケカ30周年BOX追加抽選、当選率81.4%！ポケセンオンラインの本人認証済み枠は未認証枠の3.2倍！トレゲトがデータ公開",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GSEtJal9sMWlSMkpodmw3VjZMV2FSZGxENEZFYTRNMTBRYXlLMVVtN0M2RUJ1LW9xMm1SbnR5WUdFUW9nSUowb081b2xuRHZYMVUwQk52ejNkdUR2QU90YmFBZGg2VmFrdVE?oc=5",
-    "source": "PR TIMES",
-    "snippet": "",
-    "ts": "2026-09-04T06:59:20+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
    }
   ],
   "pokeca": [
+   {
+    "id": "3ad153bc182c35a1",
+    "title": "【フュージョンワールド】「BRIGHTNESS OF HOPE」高額・当たりランキング/買取相場/商品情報まとめ【ドラゴンボールスーパーカードゲーム】",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1obHlDSWd3RDdHbUxqdmxONTNKRUJsWFFCNHl4N3VEMVhqNllIczAxTFhoZ2hobUpEdU9TOVdjYzJUSnZGbS1lSWN2cEo?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-09-12T18:40:07+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "f01f1fc65f7a3cda",
+    "title": "【ポケカ】30th CELEBRATION(30th セレブレーション)の予約・抽選情報まとめ【9/12更新】",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16Y1BNa2hNSWxFV2JrY1hqWVE0WEFYZXphTFVIQXJSWjJvUjNvNV9xUWRsWFE5RklTY3BnWDJYaUVWaUhMdmI1ZnRfdWg?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-09-12T15:22:57+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "ac66eaff0e985da5",
+    "title": "【ポケカ】スターターセットex「イーブイex」「ゾロア&ゾロアークex」「ニャオハ&マスカーニャex」の予約・抽選情報まとめ【7/23更新】",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KT3RUcXlaVjlfZnQxN1dnNy1IU3RuTmtKWVdIYjFFZlJQcUhkX0JueDllYmhlOVIwZlRyRlc3UFhBWFJXMWxvRHppSi0?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-09-12T14:55:03+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "e0a8dbed19e1b4ac",
+    "title": "【ポケカ】MEGAドリームexの予約・抽選情報まとめ【11/27更新】",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00MFpSR0EtbFNCY1RKRzY1RjFoYnItbGZRcE5IX2VFY05GT2VuclNiaW5YMGxycFZrZnM1MHM3Q2NTbURzVjNXWlhEaEs?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-09-12T13:24:41+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
    {
     "id": "979f706a225d4072",
     "title": "【ポケカ】30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキーの収録カード・予約抽選情報まとめ",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hMW53cGE2X2J5UDNaLWRXTkIwaGV0UzZNaC1wYUVSZVNtTWZqenpFMWUyYUpuZDZsZFlkXzFNOXpnMnd3VXB2RElJQU0?oc=5",
     "source": "SNKRDUNK",
     "snippet": "",
-    "ts": "2026-09-12T10:02:57+00:00",
+    "ts": "2026-09-12T12:05:28+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -368,61 +412,6 @@
     "summary": ""
    },
    {
-    "id": "8d7044fac620f3ff",
-    "title": "【ポケカ】ゲッコウガex SARの買取相場予想や発売後の高騰考察｜30th CELEBRATION(30th セレブレーション)",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53S19EeE1xQ0ZsazVRSS1rRDFlQW93Z0xSbWlaMFMzazloZzA5bW9nYzROV0hNNmpLY0RzbDVFWFlmYVJlODN5TkdGWnQ?oc=5",
-    "source": "SNKRDUNK",
-    "snippet": "",
-    "ts": "2026-09-12T08:41:09+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "eacae26564913381",
-    "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rYTVkODVGUUtEZXhCQkRRUjMwc2dkRmFVX3NyWU03OWFhczF6QnNEQnJ4UXJyOWRRb1c4RnVyWXpOWWF6dnV0YW9TUTY?oc=5",
-    "source": "SNKRDUNK",
-    "snippet": "",
-    "ts": "2026-09-12T06:35:00+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "bf503e397f2a0a7b",
-    "title": "【ポケカ】ジラーチex SARの買取相場予想や発売後の高騰考察｜30th CELEBRATION(30th セレブレーション)",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sVjZKSFdLNUdZamM2OWltYUtUYzBCemZSYjJQdkZoaTNXSTdaUjY5S1RseF9ZYjVJNVdLajhDMmUzNVdUWjRlVVYzNkI?oc=5",
-    "source": "SNKRDUNK",
-    "snippet": "",
-    "ts": "2026-09-12T01:35:06+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "c4a984940720499f",
-    "title": "【ポケカ】ホゲータex SARの買取相場予想や発売後の高騰考察｜30th CELEBRATION",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmLTJ1ajZRTkoxbHZSNzEyYk5PVk10Nm9HeDVpS2R2bVpQV0ZkTTlLOUZ1ei1aMEh2QnVqRjViQ0ZLQnVoRkc1NmxXT0E?oc=5",
-    "source": "SNKRDUNK",
-    "snippet": "",
-    "ts": "2026-09-11T16:39:29+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "ec1c763b73eb2134",
-    "title": "ポケカ30周年 FUTURISTIC BOX、定価27,500円で抽選販売！実売は4.3倍の11万円台！トレカプロが受付",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fenBETmhCM3lQQWt4UDNTODdIcXktNThUUXdHeEd0UzkyZWd6dVhBZWhkUUNKUVRjUlpkXzR2U0hZVHJJVFpXeFB1czViYnlNYm80Z1Jqbm5vUV9xUU1PLXhNb2d1elVG?oc=5",
-    "source": "ニコニコニュース",
-    "snippet": "",
-    "ts": "2026-09-11T13:51:37+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
     "id": "6ef7b9b521a297f3",
     "title": "ポケモンカードゲーム MEGA 拡張パック「30th CELEBRATION」など3商品の追加抽選販売応募受付が開始。9月16日16：59まで",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pb0JFeHBFUmt6QTUyblN5aDVtSXJjM2dDY3cxTW80b0hWemFmRTZBSnpmLUdrSGhiTTV4Z2t5NVFFbWNmQjhkR2tTT1NORmdCNUNPSFlFX2hwWmdlLVdMVjdGaw?oc=5",
@@ -437,7 +426,7 @@
     "id": "fba143351d31215f",
     "title": "『ポケカ』30周年記念商品がポケセンオンラインで追加抽選開始！今回も大半は「本人認証済みの方の当選分」として用意",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERGlscFdrOTk2aThiQmgtcHkxSDJrNHRYQVl5SUJTdmxJS0EyWmVfUjlZcFZqYnlUSDdFWWVuZmRzZUgtVkc2dFRGdFVGSl96elNZc0xSQ0ptMDFVVDQ1OGtTLWxMQmJXb1I5elVQNnhHUEpYdzFKYjFGMFVZV3M?oc=5",
-    "source": "news.yahoo.co.jp",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-11T07:10:03+00:00",
     "type": "news",
@@ -456,9 +445,31 @@
     "summary": ""
    },
    {
-    "id": "ddea50c781ef65a1",
-    "title": "【ポケカ】ニンフィアex SARの買取相場予想や発売後の高騰考察｜30th CELEBRATION(30th セレブレーション)",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wWXNDWkd4dVBwYUF6dm9aakxPal9YUndKeXlldFlBOVBPRm1rcE1YX085OGxXTGtzVFo1TTV0cm1aNlN6NlBKdS1FWU8?oc=5",
+    "id": "c4a984940720499f",
+    "title": "【ポケカ】ホゲータex SARの買取相場予想や発売後の高騰考察｜30th CELEBRATION",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmLTJ1ajZRTkoxbHZSNzEyYk5PVk10Nm9HeDVpS2R2bVpQV0ZkTTlLOUZ1ei1aMEh2QnVqRjViQ0ZLQnVoRkc1NmxXT0E?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-09-11T07:00:00+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "bf503e397f2a0a7b",
+    "title": "【ポケカ】ジラーチex SARの買取相場予想や発売後の高騰考察｜30th CELEBRATION(30th セレブレーション)",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sVjZKSFdLNUdZamM2OWltYUtUYzBCemZSYjJQdkZoaTNXSTdaUjY5S1RseF9ZYjVJNVdLajhDMmUzNVdUWjRlVVYzNkI?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-09-11T07:00:00+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "8d7044fac620f3ff",
+    "title": "【ポケカ】ゲッコウガex SARの買取相場予想や発売後の高騰考察｜30th CELEBRATION(30th セレブレーション)",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53S19EeE1xQ0ZsazVRSS1rRDFlQW93Z0xSbWlaMFMzazloZzA5bW9nYzROV0hNNmpLY0RzbDVFWFlmYVJlODN5TkdGWnQ?oc=5",
     "source": "SNKRDUNK",
     "snippet": "",
     "ts": "2026-09-11T07:00:00+00:00",
@@ -506,6 +517,17 @@
     "source": "BigGo ファイナンス",
     "snippet": "",
     "ts": "2026-09-11T06:35:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "ec1c763b73eb2134",
+    "title": "ポケカ30周年 FUTURISTIC BOX、定価27,500円で抽選販売！実売は4.3倍の11万円台！トレカプロが受付",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RMjRuNmNTSXd5OWJIWHc4NGhHUnFGbzRoUVJxMlpveC1xMGFCajgxVDdzakEyQlJFNGQwRTV0ZGEzcktvNExkSy0tT25SLVV6dVlMVjFMOEt5cGViUlNwWkV2MWs2bHlNMWc?oc=5",
+    "source": "PR TIMES",
+    "snippet": "",
+    "ts": "2026-09-11T06:00:02+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -577,6 +599,17 @@
     "summary": ""
    },
    {
+    "id": "289e0143becd4a96",
+    "title": "【ポケカ】30th CELEBRATIONパック【カードリスト】",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fclNCYkFwaEsxSkJLNkdGekdvamtReFR1ZlhtakdOS1NKblctNnJiNHVEQ01fM0pkcmNSb3kyYlROR0ZqWk1jWXVyWGM0aXRuU01qTkYzSDdNRFk4MmNpb2Vqa2l6MFc5ZEVKbHRUTQ?oc=5",
+    "source": "ポケカポケット開封日記",
+    "snippet": "",
+    "ts": "2026-09-09T07:00:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
     "id": "d642b3d4b6fddc30",
     "title": "ポケカ拡張パック「30th CELEBRATION」のカードリスト公開！9月16日発売予定",
     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xZmpkSHpEX2lTYm1jbjR4V29pTTZ3aGkyWFYxTmZPNzZGNEI3NVJnd3k4a1V4Slp0WW1iYjVWbjdfZmpSZ0FPaFA2SGJ0QXFlZDFFZ1hpMWJyNW9hcVV1MnRxeE9LNzQ?oc=5",
@@ -610,17 +643,6 @@
     "summary": ""
    },
    {
-    "id": "f1115e8e94bfcf0e",
-    "title": "ポケカ30周年『御三家カードセット』当選率90.5%！買取予想は定価の10倍・10.8万円！トレゲト(@cardchusen_com)が調査",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWLTU0RXc2eUhiZzM4TkFSSEwxdWJScllLdE5VeG9Fd3BTbVBNakJhSU5QMzFZMjRPZ2FSZUhxWWstejQzeF9tUFJJU1ZrcG4tb1FubWRWX1c3MW94bjRRaUQ0SmlsTmVwSGc?oc=5",
-    "source": "PR TIMES",
-    "snippet": "",
-    "ts": "2026-09-09T02:00:02+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "331175048e985496",
     "title": "【ポケモンカードゲーム MEGA 拡張パック「30th CELEBRATION」販売のご案内】｜ローソン公式サイト",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56d3I0eU5KMzM1QUpSX28wY2xYSTZhck1sZlUtRDdRUkpremZYM2RHR3lRV3RpUkdMMXI1dF9qQnJ1ckl0dE5oTGVRVjhsZGdyR2xxN05oWkppelVSZWNoLXJwZnVfSEZRNzI1QVJHT0kzZG90N0hvQ2pfZw?oc=5",
@@ -640,28 +662,6 @@
     "ts": "2026-09-08T07:59:47+00:00",
     "type": "news",
     "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "b710083459f685a6",
-    "title": "【ポケカ】30th CELEBRATION(30th セレブレーション)の収録カードリスト一覧/最新情報【2026年9月16日発売】",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Ld056SEM5RFAyZDRma05md0thb1RtUklPbk1qUGNFQnR4QWw0ZWp3Yk1QUTlFTWhmVGNqb3VuNmxpWkpuQWRTNTlyU2c?oc=5",
-    "source": "SNKRDUNK",
-    "snippet": "",
-    "ts": "2026-09-08T07:00:00+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "f34ca82bdd9a4511",
-    "title": "ポケモンカードゲーム MEGA 拡張パック「30th CELEBRATION」，事前抽選販売を全国のポケモンセンターで実施。9月11日23：59まで受け付け",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1feDFwVjZJYUl1TnZYRFdKZGowSXlhdzlzaDhIUlR3cmc2UXExYXpOYkRJSGx4a1FJMFdHcFVacTFNNWNsYmdNcnRhd1JLelVRbXN0UlRRYVMyRlBvX0xKVXE5UQ?oc=5",
-    "source": "4Gamer.net",
-    "snippet": "",
-    "ts": "2026-09-08T03:40:53+00:00",
-    "type": "news",
-    "guide": false,
     "summary": ""
    }
   ],
@@ -714,7 +714,7 @@
     "id": "7c0ad5611d2f9617",
     "title": "『ポケスリ』ミュウツー9/14実装決定。ピカチュウデザインのFitbitコラボなど新情報一挙公開【ポケモンスリープ】",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtYnlrNXg2WmNIMm5GSWt6bmN1VVRIdC10X0Z6WFI3bm5KRkpBRGowd3Z2bzJWMHY4MlJBcVlXdmVfVGMyYVZpdGVtd29JdTRSZjQzQnhjaWl4UQ?oc=5",
-    "source": "電撃オンライン",
+    "source": "dengekionline.com",
     "snippet": "",
     "ts": "2026-09-06T06:30:00+00:00",
     "type": "news",
@@ -725,7 +725,7 @@
     "id": "d951223ba144359b",
     "title": "「全国睡眠県グランプリ2026」を発表！ 2位は「新潟県」、1位は？【ポケモンスリープ調査結果】（ねとらぼ）",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JcDU0aVJxNWl5TWpZV2lXeTN5NlB3MUJIaHRSVFlwYTM2YVRGaDg1azBrZXdwUThxRHJ1V212Uk9uUzZhTDZyZGhhNU8xRVZUYzFtN2Z0SDZzS0lDWjFmYVREUDVEb0NzUkdPOUx3R213V2czbGZLSUVuV2t6Tmc?oc=5",
-    "source": "news.yahoo.co.jp",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-04T12:20:00+00:00",
     "type": "news",
@@ -813,7 +813,7 @@
     "id": "0ffa234e86921d57",
     "title": "今年３月出産の松村沙友理「ポケモンスリープ」で「夜泣きの声が録音されて、めっちゃかわいい」 (日刊スポーツ)",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNjZVRjJVODlwVnpZMllzeDFOdGdILXZtMTJzQ0ZMWThyVGZfbDBVQzZHM2ZyREtkNkRSMnhxeElSaW9hSGRNU2F0QTlQd2FES3ZKY2VEdnJQQjRnTWlwT2hjbW5jdFNZbDBhN0FtMnp3cmVhcVlLNm5CNFNNeFRNbW1CRWxQMzNrTllRVEF3?oc=5",
-    "source": "news.yahoo.co.jp",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-02T07:00:00+00:00",
     "type": "news",
@@ -835,7 +835,7 @@
     "id": "39e8a9cbb95a5b01",
     "title": "ポケモンに包まれてぽかぽかで眠ろう 昭和西川×『ポケモンスリープ』コラボ新作発売（リアルサウンド）",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12YzNxN2RaSUN2TE0yQ3g5cThERHVUUTBEMG4zZDZXNG1UcDF2a3l2N3F6djJpNlQ4Mkp4eTg2Rk9DM3ZCajdlb1VMRElXcXpEOGg5NlplN1pveGlpeG90UFFVd0JWcnJCSDBTVXhURHUtYWZUUTZTMmpWaHMtVFE?oc=5",
-    "source": "news.yahoo.co.jp",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-01T07:00:00+00:00",
     "type": "news",
@@ -857,7 +857,18 @@
     "id": "a24d94b5aadfea98",
     "title": "「ポケモンスリープ」×昭和西川コラボの冬に向けた新作アイテムが発売決定！ キテルグマの抱き枕などが登場か",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vM2o1X2ZCcTcwc0hidmI3TUI4U3g3Q29NNUVaNnRBOWRxNzEtc1NwOFBaSVVmQlBISVI1aHdYOGRSa0ZlZmhFejJXTmpSWWFPa1p0cFM4QmZPS0hmR255S052eEtiZHloN3k2X2EtQ0lrb1dJbjNhSGxGbE9RQmM?oc=5",
-    "source": "news.yahoo.co.jp",
+    "source": "Yahoo!ニュース",
+    "snippet": "",
+    "ts": "2026-09-01T07:00:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "0408b297a1191fa3",
+    "title": "『Pokémon Sleep』× NOT A HOTEL、コラボレーションが決定。「泊まれるモンスターボール」宿泊キャンペーンを実施",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85bXU2bHNERUd4TzFpM0lrQ2c5dU9fbXJKRDA2dUVjWlJrNVdCYmIyZGUzRjdEMWVQZUtxT3VOajV5SVdNbnNjaDRRRkQ1MDk2VzFvVWY0UFdTREw3QjB1Mnl1U1FUQmN4WlE?oc=5",
+    "source": "PR TIMES",
     "snippet": "",
     "ts": "2026-09-01T07:00:00+00:00",
     "type": "news",
@@ -879,7 +890,7 @@
     "id": "de478b316c544d09",
     "title": "モンスターボール型ホテル、北海道の大自然の中に誕生 睡眠アプリ『ポケモンスリープ』が宿泊企画を展開（KAI-YOU）",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jQmlDMXpzQ2dXSWI3RTlnR0Z3eXhTOXZCamNsV2Y0V3BHTWVvWDFiR1lwZDk5Um9EN0xYdkZibnVRLXozNExJTmRmNlZrMDVVb0hIbmt2SWg1bXdPZ2tGRk1BdndBa2NhdURYSV9BT0xPTVlPRnYyZG5TZW1zSXM?oc=5",
-    "source": "news.yahoo.co.jp",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-01T07:00:00+00:00",
     "type": "news",
@@ -901,7 +912,7 @@
     "id": "2af08d668a6bf42f",
     "title": "【ポケモン】北海道に「泊まれるモンスターボール」が登場！ NOT A HOTEL「ポケモンスリープ」コラボが開催決定（GAME Watch）",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xUDAyYUpaczdPVVRESnE1TC1FTXF2X0VNZ1NPZl9Sb2l6eDlnbFZoa1RwNVZGZDgwM3ZTblhWdkZ0ZHAzUjVXdUlJSmJqRklNWUFxaWZTSkRSZTlZbHdZNHphek15WVlHcUY4aldwR250OU9LdWtSZ3Vad0dvTkU?oc=5",
-    "source": "news.yahoo.co.jp",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-01T07:00:00+00:00",
     "type": "news",
@@ -913,6 +924,17 @@
     "title": "NOT A HOTEL × ポケモンスリープ モンスターボール型のホテルが北海道に",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EaFM3VjU0U3dfSkxMRG1pRGpUazd1TGJpZU1taWl1eG5PVHZ6Y2RuaEhGX001RUJVT1JCck9XZ1ZqaWY4UEV3ZzVLYm1mM3JiUllBQ2drY21LUE5WeTRHeHB0bEFGQ1Z1SFdpNlBpQlFjS1l3UnpSYXZLaWw?oc=5",
     "source": "fashionsnap.com",
+    "snippet": "",
+    "ts": "2026-09-01T07:00:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "9313eac1b089f1b1",
+    "title": "NOT A HOTELがポケモンスリープとコラボ 泊まれるモンスターボールを展開（FASHIONSNAP）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd3RQNVpXQUJCRldMYXdWQ2U1RjhqTXl2V0tYWlNrWm9Hc1hzdVNBWXJ5T2pSNk1rWkNYMlZoVXoyM0YyQmtuSjhLdG45ZHlLMzZ3d3AtdVdlZmFPNWxPTUkzMF9hOS0wTVNHY1BzWXZNWlR4dHJFQ1QzekxrQjg?oc=5",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-01T07:00:00+00:00",
     "type": "news",
@@ -973,28 +995,6 @@
     "type": "news",
     "guide": false,
     "summary": ""
-   },
-   {
-    "id": "ae59dec0f6f83fe2",
-    "title": "『Pokémon Sleep』x NOT A HOTEL による“モンスターボール型ホテル”が北海道に誕生",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEZLbkpuRU1QZEVIblBob2pSVUtYZHhFMkFOYVNMOTVsQjhYeFRDa2NTaXNVZEJMdU1WMVlnLWpPUDFkVGh0cEhXcnE0T1g0M0RkNml4ZGE4ZjBpTFRQSDNqWG9abzN5X3lBc0FwMDllb3VzUjJOZjh4SjRFV2RBdEtPdUtTMVlLc0pVYjB3?oc=5",
-    "source": "Hypebeast",
-    "snippet": "",
-    "ts": "2026-09-01T07:00:00+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "78e7e5521e3d53dd",
-    "title": "このモンスターボール、本当に泊まれる！『ポケモンスリープ』×「NOT A HOTEL」がコラボした宿泊キャンペーンが凄そう 1枚目の写真・画像",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmbzhURTlIN05QaE5qVTA4SzBqOVJMdlhfTTNrWktNMGp6NmVjMzlJRFN0dEJNamM4dlFjYUp2TFJjcmhDSjBYaWVHTHZseVo3bUhnUnNqWDduNUZUSmVHWnFtU2NWdWVvejczYW1DVGprRmZ0aEVoQU5B?oc=5",
-    "source": "インサイド",
-    "snippet": "",
-    "ts": "2026-09-01T07:00:00+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
    }
   ],
   "pokopia": [
@@ -1016,6 +1016,17 @@
     "source": "GameWith",
     "snippet": "",
     "ts": "2026-09-12T04:37:08+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "ffcfc4545419d44b",
+    "title": "【ぽこあポケモン】DLC追加アイテム一覧【ぽこポケ】",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83RFAydGg3Mmk1NVg3WHNlUHpDNUJ3WWNSb2ZsaW5fcGtyM3lPcXN2MTRwZnZ0YWJxSThPbFJpRFdUejVQOGtEN2xEU0JqTHM0?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T00:54:28+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -1054,6 +1065,17 @@
     "summary": ""
    },
    {
+    "id": "0f8538534e16276d",
+    "title": "【ぽこポケ】荒地を大改造！海の植物いっぱいボタニカルガーデン｜ぽこあポケモン｜pokopia｜建築",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sWXk0cXFzUVRqYUtHTXhNbmpPX1VOVWJXdGg3Y3ExUVJNRmE5aUpKVURSbEcyZVNSSnk3dVotSFpldjEtUnkzU2hHeG5POWQ2YjljbUhNNlNiZlNE?oc=5",
+    "source": "youtu.be",
+    "snippet": "",
+    "ts": "2026-09-11T11:00:33+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
     "id": "b8720f5e94e9371f",
     "title": "【ぽこあポケモン】共有装置の入手方法と使い道【ぽこポケ】",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUOXRpWC1hYTI3a0pQanh0ZEN3YU5XU0I1LTlXX3dQZmxnZ0VJLXg4bUpJeUpWVXlUTUJUT2hsT2YwZ3dxdXZwUHRhVW5ZeXdv?oc=5",
@@ -1071,17 +1093,6 @@
     "source": "GameWith",
     "snippet": "",
     "ts": "2026-09-11T08:27:22+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "ffcfc4545419d44b",
-    "title": "【ぽこあポケモン】DLC追加アイテム一覧【ぽこポケ】",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83RFAydGg3Mmk1NVg3WHNlUHpDNUJ3WWNSb2ZsaW5fcGtyM3lPcXN2MTRwZnZ0YWJxSThPbFJpRFdUejVQOGtEN2xEU0JqTHM0?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-11T07:51:23+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -1134,18 +1145,18 @@
     "id": "d166809262443a85",
     "title": "「ぽこ あ ポケモン エキスパンションパス」第2弾に新要素「アクセサリー」が登場！新たなポケモンや家具も追加",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxMUZQRHhjckQweUJMYUphOG5EeTVrVXdHVDVDLURGNFI2RHhhQ3RYMWZEM3FBbGlISk1XNFhVLUljamRFVGZkd1hEYlQwdVJDR1MxRGdpbnloYl9XQXhIOU5JRGdwZ2tKdl9TbmV0aDA4XzRwYkHSAXtBVV95cUxPR2kzcnM4OXdlaWptSlhxeFh6ZTlYRkpYUmZxeDUtNE5vSFR4VVZPVjlfdmFPRlJWUkRWMlA5UkFvc0h5dDZDWUIzV0lMWE96UG8xRWRLb2Z1S1dKZFlXRUFNamUtZ3VMUmo4SHdOMV9CY2FNejlGY0kwTEk?oc=5",
-    "source": "saiganak.com",
+    "source": "Saiga NAK",
     "snippet": "",
     "ts": "2026-09-10T10:51:57+00:00",
     "type": "news",
-    "guide": false,
+    "guide": true,
     "summary": ""
    },
    {
     "id": "5906f8a1a123b0e0",
     "title": "『ぽこ あ ポケモン』の「ルネシティ」再現建築がスゴい “サントリーニ島風”など考察を交えてリビルドした力作（リアルサウンド）",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vdGx0Q1l0TmFpSk9MalkxdDlCQV9hTlRyYjRfYnBrWUl3eEtuVGRMOExMNFVaa2VGVGVPM2JicnFuZzNiVjRPelA1U0E2V3lzb0xibUNkX25uaUlXODIzcXRYMjNJM1F2dUZYY0ZqejNtVFhtQnhuUnVWRE1aUnc?oc=5",
-    "source": "news.yahoo.co.jp",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-10T10:51:16+00:00",
     "type": "news",
@@ -1167,7 +1178,7 @@
     "id": "13a0aafc471291ea",
     "title": "『ぽこ あ ポケモン』有料追加コンテンツ第2弾に「アクセサリー」新登場！ 続報映像がNintendo Directで公開",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rTkM1TzlFbjZadVN5Q3l5UWZiN3UwYzdmM3hqSGZUT3I0TTBnN29WQnEwd09HZ2h3c2J6d2MwY09IS0dGU0tjcVRxakJ2MjFYZEdpRktoZERmMFAwcWpzaw?oc=5",
-    "source": "AppBank",
+    "source": "appbank.net",
     "snippet": "",
     "ts": "2026-09-10T09:31:22+00:00",
     "type": "news",
@@ -1178,7 +1189,7 @@
     "id": "861af531def450be",
     "title": "『ぽこ あ ポケモン』 エキスパンションパス第2弾が今冬配信！新たなポケモンとの出会いやアクセサリーが追加【Nintendo Direct 2026.9.9】 6枚目の写真・画像",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yb0dEMWxtc3NhZDJFUzl5Y0txTnVWZzRxRk9HRFBsbDk1TVlkX1U0UFlBYU5LR3d2X0xxcTZZOXJ4bFp6cHRJcXhsYUZnVnNfUDVhZ19hamU3UHJjdENEa3dqOWt6MnZYejVUZ096TW9rczdaV2c?oc=5",
-    "source": "gamespark.jp",
+    "source": "Game*Spark",
     "snippet": "",
     "ts": "2026-09-10T05:55:42+00:00",
     "type": "news",
@@ -1316,27 +1327,247 @@
     "type": "news",
     "guide": false,
     "summary": ""
-   },
-   {
-    "id": "7e8ff51bbbfecdb3",
-    "title": "スイッチ2『ぽこ あ ポケモン』 エキスパンションパス第2弾が今冬配信！新たなポケモンとの出会いやアクセサリーが追加【Nintendo Direct 2026.9.9】 1枚目の写真・画像",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nZDQ1Mk9La1hNMmtocTcyZEpyb2VsU2lHU2M4OVB3SW5QV09DN1VLaG1JWXBPeC1fZ2JnamRGdnBWOTltWDJEQXQ5c25HUDFXM2J3d21scVJQUlVIZmNMZWMwQkl4SEZCOEt6X3c3UFdEek9xc1ln?oc=5",
-    "source": "インサイド",
-    "snippet": "",
-    "ts": "2026-09-09T14:33:56+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
    }
   ],
   "champions": [
+   {
+    "id": "da0ce1fa806829ac",
+    "title": "【ポケモンチャンピオンズ】ルカリオの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jOHcyTlNlcEduQ1c4azAxcVZYNGtTM25MZmVkblBjdkxwa2tQQmJaeWRLVG9BMFZFa3MzbE5hNFNBNHBfbTJhZUdEMG12Wkd3RHVjeFlESQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T16:37:05+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "8393197c38f08753",
+    "title": "【ポケモンチャンピオンズ】最強ポケモンランキング・Tier表",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xa1lLT1YxeDZaY3A2RWk5MWt3c2tMTzNkeFYxZnlHYjRYMlRTVUY5Yk9Cakdndm9icTFZUWhNX3ZOSWZMMlJaY1hVT1gwc0NYd2tMMDdzWQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T16:16:07+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "22aa250d532c8b4f",
+    "title": "【ポケモンチャンピオンズ】メガボーマンダの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SSlY3Sm1haHVkT05rYTlWNkFjVzI0LTQtY0NseEt3NVdsM2I1TG1Cb00ydUpnbXIxaUJHdlF1dTkzWVk4MmhkajdnVWlvRUNwMzRsQXhiaw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T16:08:15+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "a021d14f9db4316c",
+    "title": "【ポケモンチャンピオンズ】インテレオンの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCX2VpU08yenpWMFVkMDI2UnFTWjVEcGxNLVp2ZDgybGdvVkoxOVlCV0g3aVgyaW1PTVE5dU1jWHdHVXVmYXRrUGdybkNLUU0xNUp5bU10VQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:32:17+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "bc51c49a4d2b0881",
+    "title": "【ポケモンチャンピオンズ】ダブル最強ポケモンランキング・Tier表",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DTFdaRXBhSEN6MHBVMnB1dk1KZTRKNFRhdHJIejB5Qk1zUE1EaWpMZUJyY3lCYUI2eExWeWRGTmJEeHhUVmFNOHA2aUQ3OGdDX3lrN1RhTQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:31:31+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "c2f16c79c017a6e9",
+    "title": "【ポケモンチャンピオンズ】メガペンドラーの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81V1RSa1NaYy0tMktwSjV5YnBpQ25TN2o4a0xjV0xxb1RVYUpuM2dtQUZfaG5NMWRPckNuaUI2VFQ2YkMxVnpkV0RJN3VZakhaTlh2ZW1CUQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:30:36+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "b8aa0eb77806e4a5",
+    "title": "【ポケモンチャンピオンズ】マフィティフの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50VUlteG5pVnF0YUppaEt3OFJrVmIzd2diOHd6dWN5ZHRsb1JBQ045RzVOeXd1dEJfdjJvUzhmOFRzVUE2QTBJbVFoaW5Jb3BTVFFXQkhSVQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:27:03+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "6597b72cdac5e001",
+    "title": "【ポケモンチャンピオンズ】エースバーンの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xOXFpWGpIeWpvQ0VtdEtJOE82UjBDRms3Y1RwbkVyLWxKcUdNdDhLWG5xTUw1YUpWVEIyZEUwX1FwNEdaOWZrTDVYb1g1cm9UUEdBNkY3QQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:25:59+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "7fe13641cc3129bc",
+    "title": "【ポケモンチャンピオンズ】アローラペルシアンの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4ybG9GOW1pdWRBdG9NenIzVHVIZDM5ZHNYaVFyVU5sSnB1TFdjWmxmLUF6SGV6UHl2bXBsWVhXUFAzY2lCUkE1WWNlaGJXRG8tcTJyd1JXbw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:24:20+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "8bb5309647f10795",
+    "title": "【ポケモンチャンピオンズ】ネギガナイトの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpdUtLZGFtb25MZllNeGI3czMySkVLWXZwRjBFS2ttQnNJRi00bzlIVU5KVFRMY2xzak5PMW5GRm5MUEp5SHV4cGVoZ0wzZTVPR0JNUEZvRQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:23:32+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "48851c3815c2823c",
+    "title": "【ポケモンチャンピオンズ】フォクスライの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wR1FaQzJ3c0lQRFJlZy04enhBQUc3eWlPWjRvaHVvZWFfMzE5bVZOOFdSS3otTHVVNXNoUXBwZnk1aHp2WmxJbjhYQUxZUWxzV0Q1cTdvOA?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:21:50+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "976a4e83fce5db95",
+    "title": "【ポケモンチャンピオンズ】サーフゴーの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YRmZyR3NuaDllX3Q1THgtV3BSbENvTVRWbDA3dEV5VFF6VThENnVXVE9xSzY3S0daTzhfVkhPam5RbnpjWjNDQWhFLVJ3VjhIRHQyUks0MA?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:19:06+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "383236092aa4729a",
+    "title": "【ポケモンチャンピオンズ】メガラグラージの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuYWlpR2tiMzc3T1Q0Wk9ONWhiNTJTcUs5Ym01TGxwc0ZhcFNJWWdSZlhRMVBGa2liSDFPWktpNDFfWG5FNHVsNFdqa0VUWW4yYktMOGNaMA?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:18:09+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "184031f7c9a1501b",
+    "title": "【ポケモンチャンピオンズ】メガグソクムシャの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nYjgxb0tmbmp2SmNLRjJ0TEVscE9FWWdTWS0wSzFva1R3dVE5ZWotWEt4MURPRE1ZTm1NYUNyNjE4MUR6blZjTEJHNVEzQVJRcV9lbkxyYw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:17:59+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "52792c03fb2fd3b7",
+    "title": "【ポケモンチャンピオンズ】オリーヴァの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBbmpUYmhxQ3Zaa1ZfY3pZa1VTMU9HX3dRUHVoOVJQOHdOd2Jib0hMXzl5UlNTYkZkQXVtcjlfbE1lUHc0QzFzRmY4Umh5Tml1VE1VMmQyaw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:17:56+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "b0414e4ff7a0c3a9",
+    "title": "【ポケモンチャンピオンズ】メガセグレイブの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04YURUYVJEdXZvalFLbmV1MGJ4QU52RDRjYkVMUE5kU1BUbUVUaHdOTGtKZ1ZtSjBaTDlFeEZPQTdkOFp5NDZHSkJWYU9TN0NWckJPNDk5Zw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:16:46+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
    {
     "id": "3ecf79fad4d6cbd9",
     "title": "【ポケモンチャンピオンズ】グソクムシャの育成論と対策",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10eUp0dDhseEhPYmhtS0F5TjNPZlFaQkNTTmJraDBBRHRRdGNyb045WmVxWEhMRlZBeTFPMTVfR1VVdlpHendyZ1YxOTdLSGNuX3ZIUklaMA?oc=5",
     "source": "GameWith",
     "snippet": "",
-    "ts": "2026-09-12T15:14:19+00:00",
+    "ts": "2026-09-12T15:16:38+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "469786fdf47589a1",
+    "title": "【ポケモンチャンピオンズ】メガメタグロスの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IVmVCVEYybVlaaldjX2pva281SXJpNUduRUVUbElPWHVMOHlzUGV2VVRQZElhZDJGWHFNbXhfZmlqSy1lNEVfQXNKVGcxVUlSWTRNcUpWZw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:16:05+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "fb5d6efc3bc14fa8",
+    "title": "【ポケモンチャンピオンズ】ストリンダー(ハイ)の育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwLW53bUR5SmhvbGNDWW9DVEtza3BOaW9VMVdRTF9McmhmazVLRnF3alBVblFBZkdZMEhwOFF2TVgyeVVqdEx6a0RQMFlMcTJVUnVXaG51bw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:14:57+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "8555ceec462ccde2",
+    "title": "【ポケモンチャンピオンズ】メガバシャーモの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xQ0JKUWdDXzdyR0pQZTBJcndPWHUwUWduREliM3RIYVRJZzdXRXNuS1E1Wm1GWlIyVmFPdnNDa2lFcUFBbHRzamJlUG8ybUE2TzU1TzlKNA?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T15:14:32+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "b4ddef28870373aa",
+    "title": "【ポケモンチャンピオンズ】フィールドの一覧と仕様",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaN2dOenFaWGF5clJOdEhMcWl0N0g4UU9mdGR6NkhuakFoTmVzb1VnaUxjLTJzT0YwWU1EUExCcHdfV1NfWHBZbl9PVU03SHZCSTJqdkhXTQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T14:58:12+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "0cd7e4b1b11b1583",
+    "title": "【ポケモンチャンピオンズ】ダブル最強パーティランキング",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9td0tuUVlUU1hkM3dNQmRKeEpMNFQ1THIzS2cxc2dsY2w1QWt5a09XTDhPTkhiX2FlSWNWcVZrWllfWGlKMFJvSTFMRFh5MkZhWDFSckZHSQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T13:22:13+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -1375,221 +1606,12 @@
     "summary": ""
    },
    {
-    "id": "6597b72cdac5e001",
-    "title": "【ポケモンチャンピオンズ】エースバーンの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xOXFpWGpIeWpvQ0VtdEtJOE82UjBDRms3Y1RwbkVyLWxKcUdNdDhLWG5xTUw1YUpWVEIyZEUwX1FwNEdaOWZrTDVYb1g1cm9UUEdBNkY3QQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:46:42+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "52792c03fb2fd3b7",
-    "title": "【ポケモンチャンピオンズ】オリーヴァの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBbmpUYmhxQ3Zaa1ZfY3pZa1VTMU9HX3dRUHVoOVJQOHdOd2Jib0hMXzl5UlNTYkZkQXVtcjlfbE1lUHc0QzFzRmY4Umh5Tml1VE1VMmQyaw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:45:38+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "b8aa0eb77806e4a5",
-    "title": "【ポケモンチャンピオンズ】マフィティフの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50VUlteG5pVnF0YUppaEt3OFJrVmIzd2diOHd6dWN5ZHRsb1JBQ045RzVOeXd1dEJfdjJvUzhmOFRzVUE2QTBJbVFoaW5Jb3BTVFFXQkhSVQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:43:51+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "ca8af346baaf1bb4",
-    "title": "【ポケモンチャンピオンズ】ヤドキングの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rbk53QU16MS1HWVFEcXBhcW1BUVhrQnQza3lGeXZaU3NUZWR1aVlYdjJVU3VZbjBxaW5kU2pyREEyY0gzLVBOTXYyWUZwbmJYQ190TmRwcw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:42:37+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "48851c3815c2823c",
-    "title": "【ポケモンチャンピオンズ】フォクスライの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wR1FaQzJ3c0lQRFJlZy04enhBQUc3eWlPWjRvaHVvZWFfMzE5bVZOOFdSS3otTHVVNXNoUXBwZnk1aHp2WmxJbjhYQUxZUWxzV0Q1cTdvOA?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:39:53+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "184031f7c9a1501b",
-    "title": "【ポケモンチャンピオンズ】メガグソクムシャの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nYjgxb0tmbmp2SmNLRjJ0TEVscE9FWWdTWS0wSzFva1R3dVE5ZWotWEt4MURPRE1ZTm1NYUNyNjE4MUR6blZjTEJHNVEzQVJRcV9lbkxyYw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:39:35+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "22aa250d532c8b4f",
-    "title": "【ポケモンチャンピオンズ】メガボーマンダの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SSlY3Sm1haHVkT05rYTlWNkFjVzI0LTQtY0NseEt3NVdsM2I1TG1Cb00ydUpnbXIxaUJHdlF1dTkzWVk4MmhkajdnVWlvRUNwMzRsQXhiaw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:38:42+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "c279c939e810e773",
     "title": "【ポケモンチャンピオンズ】メガボーマンダの入手方法と種族値・覚える技",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05SWpvSHZvNzNfZ1I0MXJHV2hxaGplUUtSREUwTHdWTVVvQzItblhSMUcxZng0U2ZuZ0dkWWhvTTNNaTRQckF3RFJpLTMxUXliTFBaQUNnUQ?oc=5",
     "source": "GameWith",
     "snippet": "",
     "ts": "2026-09-12T10:37:11+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "8bb5309647f10795",
-    "title": "【ポケモンチャンピオンズ】ネギガナイトの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpdUtLZGFtb25MZllNeGI3czMySkVLWXZwRjBFS2ttQnNJRi00bzlIVU5KVFRMY2xzak5PMW5GRm5MUEp5SHV4cGVoZ0wzZTVPR0JNUEZvRQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:34:42+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "b0414e4ff7a0c3a9",
-    "title": "【ポケモンチャンピオンズ】メガセグレイブの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04YURUYVJEdXZvalFLbmV1MGJ4QU52RDRjYkVMUE5kU1BUbUVUaHdOTGtKZ1ZtSjBaTDlFeEZPQTdkOFp5NDZHSkJWYU9TN0NWckJPNDk5Zw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:33:34+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "7fe13641cc3129bc",
-    "title": "【ポケモンチャンピオンズ】アローラペルシアンの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4ybG9GOW1pdWRBdG9NenIzVHVIZDM5ZHNYaVFyVU5sSnB1TFdjWmxmLUF6SGV6UHl2bXBsWVhXUFAzY2lCUkE1WWNlaGJXRG8tcTJyd1JXbw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:33:13+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "fb5d6efc3bc14fa8",
-    "title": "【ポケモンチャンピオンズ】ストリンダー(ハイ)の育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwLW53bUR5SmhvbGNDWW9DVEtza3BOaW9VMVdRTF9McmhmazVLRnF3alBVblFBZkdZMEhwOFF2TVgyeVVqdEx6a0RQMFlMcTJVUnVXaG51bw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:32:19+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "a021d14f9db4316c",
-    "title": "【ポケモンチャンピオンズ】インテレオンの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCX2VpU08yenpWMFVkMDI2UnFTWjVEcGxNLVp2ZDgybGdvVkoxOVlCV0g3aVgyaW1PTVE5dU1jWHdHVXVmYXRrUGdybkNLUU0xNUp5bU10VQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:31:24+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "976a4e83fce5db95",
-    "title": "【ポケモンチャンピオンズ】サーフゴーの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YRmZyR3NuaDllX3Q1THgtV3BSbENvTVRWbDA3dEV5VFF6VThENnVXVE9xSzY3S0daTzhfVkhPam5RbnpjWjNDQWhFLVJ3VjhIRHQyUks0MA?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:30:46+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "8555ceec462ccde2",
-    "title": "【ポケモンチャンピオンズ】メガバシャーモの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xQ0JKUWdDXzdyR0pQZTBJcndPWHUwUWduREliM3RIYVRJZzdXRXNuS1E1Wm1GWlIyVmFPdnNDa2lFcUFBbHRzamJlUG8ybUE2TzU1TzlKNA?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:30:29+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "383236092aa4729a",
-    "title": "【ポケモンチャンピオンズ】メガラグラージの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuYWlpR2tiMzc3T1Q0Wk9ONWhiNTJTcUs5Ym01TGxwc0ZhcFNJWWdSZlhRMVBGa2liSDFPWktpNDFfWG5FNHVsNFdqa0VUWW4yYktMOGNaMA?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:29:55+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "469786fdf47589a1",
-    "title": "【ポケモンチャンピオンズ】メガメタグロスの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IVmVCVEYybVlaaldjX2pva281SXJpNUduRUVUbElPWHVMOHlzUGV2VVRQZElhZDJGWHFNbXhfZmlqSy1lNEVfQXNKVGcxVUlSWTRNcUpWZw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:29:39+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "da0ce1fa806829ac",
-    "title": "【ポケモンチャンピオンズ】ルカリオの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jOHcyTlNlcEduQ1c4azAxcVZYNGtTM25MZmVkblBjdkxwa2tQQmJaeWRLVG9BMFZFa3MzbE5hNFNBNHBfbTJhZUdEMG12Wkd3RHVjeFlESQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:29:23+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "8393197c38f08753",
-    "title": "【ポケモンチャンピオンズ】最強ポケモンランキング・Tier表",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xa1lLT1YxeDZaY3A2RWk5MWt3c2tMTzNkeFYxZnlHYjRYMlRTVUY5Yk9Cakdndm9icTFZUWhNX3ZOSWZMMlJaY1hVT1gwc0NYd2tMMDdzWQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T10:29:05+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "c2f16c79c017a6e9",
-    "title": "【ポケモンチャンピオンズ】メガペンドラーの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81V1RSa1NaYy0tMktwSjV5YnBpQ25TN2o4a0xjV0xxb1RVYUpuM2dtQUZfaG5NMWRPckNuaUI2VFQ2YkMxVnpkV0RJN3VZakhaTlh2ZW1CUQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-12T09:50:08+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -1609,7 +1631,7 @@
     "id": "63a6ae4a7e88adbb",
     "title": "ポケモンチャンピオンズをプレイ - part14(ランクマッチ)",
     "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBTV1A4MWNmX3kwa3NvZlJncWY1akowUDRFTHhsRjR1YjhFWmE1SEtUOHA3MnczcUxYd2g0TVhoVnNYUQ?oc=5",
-    "source": "YouTube",
+    "source": "youtu.be",
     "snippet": "",
     "ts": "2026-09-12T02:59:38+00:00",
     "type": "news",
@@ -1628,17 +1650,6 @@
     "summary": ""
    },
    {
-    "id": "b4ddef28870373aa",
-    "title": "【ポケモンチャンピオンズ】フィールドの一覧と仕様",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaN2dOenFaWGF5clJOdEhMcWl0N0g4UU9mdGR6NkhuakFoTmVzb1VnaUxjLTJzT0YwWU1EUExCcHdfV1NfWHBZbl9PVU03SHZCSTJqdkhXTQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-11T23:33:05+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "47c2af1e81fd3fc8",
     "title": "【ポケモンチャンピオンズ】最強パーティランキング｜おすすめ構築",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EdWU0U1ZLN0JWN014VklDeHRpQUFRYVJpMF9LMU1UWnZ2Y1ZZa2xDb2JhUUlXdHRZM0JzM3FsQk5WRXRuNHA0RS1xcktKaF85WkpIbFF6aw?oc=5",
@@ -1648,20 +1659,20 @@
     "type": "news",
     "guide": true,
     "summary": ""
-   },
-   {
-    "id": "2a74c7763b454041",
-    "title": "【ポケモンチャンピオンズ】メガガブリアスZの特性と種族値",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBabHZkcDJxUm84MDNHY3Y5T1JwZFRLai1rWW0xTVU3c0tpYUk4LU1WUXlOVEVXc01Nd0Q5ZExfMTdtOHFIcnZxWkVoRXBfWjY0T0JRZHdZTQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-11T18:59:29+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
    }
   ],
   "mainline": [
+   {
+    "id": "58380df333040cd1",
+    "title": "【ポケモンチャンピオンズ】リセマラ当たりランキング",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CclV5RDAtRkpTVFluM0VWamdoTXg4TEFNQWxsMzFxMGdubUJNR2k3dmNiRHdwZDJGY0tDQTA3M2Z4WGlxaVFleG9BY0ktWlFNN3FsZF9CRQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-09-12T02:47:09+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
    {
     "id": "0038c570a14fcd3d",
     "title": "【ポケモンチャンピオンズ】スカウトおすすめポケモン",
@@ -1894,17 +1905,6 @@
     "summary": ""
    },
    {
-    "id": "0923b58a8580476d",
-    "title": "【ポケモンZA】ギャラドスの進化とおすすめ技構成・性格【ポケモンレジェンズZA】",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85LTlmdS1EX1dlM1RtVzVXWF90ZWNxd3dCNFhfd0xBQU5WVU9SN0wzVTNkbklEb0pNUlpzSjdKanJvRm11MEVNQnEzTW5oUQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-09-09T07:25:33+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "285346d08f4f8478",
     "title": "【ポケモンZA】ヘルガーの進化と入手方法・おすすめ性格【ポケモンレジェンズZA】",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwS2NyekFlNmhTWC1MSFE5WXhmc3k5T2x0dVV6ZVJWTmR4RUttRTdoWVNqM2d0d2s1UU9PVU51Yjh3RkkxREtZeG5TVnd3Zw?oc=5",
@@ -1930,7 +1930,7 @@
     "id": "3bab1a08b3073347",
     "title": "ジェラピケ×ポケモン新作発売! サイズで進化するデザインが話題に「かわいすぎて選べない」（ふたまん＋）",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGN2lHTG1MRXg3eTdob0swVWlxTEFfby11dldOdzFEb2VJbVJPOTVCM1lScUF2amVzNFpuLUVvam1UUGNyUlAyVzYyMjNGV3hZZkhCVU9CTzNtR2VnQkV3TTBYekN1TU9SSnh6aGRQMXZ4T0Qza3pNRy1MSlg4WHc?oc=5",
-    "source": "news.yahoo.co.jp",
+    "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-09-08T21:30:32+00:00",
     "type": "news",
