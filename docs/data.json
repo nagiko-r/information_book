@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T12:54:48.271311+00:00",
+ "generated_at": "2026-11-01T21:50:46.353201+00:00",
  "categories": {
   "pokecen": [
    {
@@ -9,17 +9,6 @@
     "source": "AppBank",
     "snippet": "",
     "ts": "2026-10-31T13:02:21+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "539827475bd780c5",
-    "title": "【Pokémon】クリスマスじゅんびチュウ🎄⭐️┆ポケセン新作グッズが可愛すぎる…❤️◝✩┆購入品&プレゼント紹介🧸【Vlog】",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SMHNfWHUxRnRyeE42V0xLVGlZTUxxQXFWWXFrcXFSVllYMXFhRGFITmp4d3loYi1VZjk2SzAySzFvajMtYnNmOWdXdHIyQk0xZURTRVE3b050X290?oc=5",
-    "source": "YouTube",
-    "snippet": "",
-    "ts": "2026-10-31T11:19:39+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -42,6 +31,17 @@
     "source": "電撃ホビーウェブ",
     "snippet": "",
     "ts": "2026-10-31T04:30:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "4420376a00c15372",
+    "title": "11月13日より「ポケモンカードストア」が愛知・静岡・埼玉・大阪・和歌山の全国5会場にオープン！ イーブイのプロモカードがもらえる無料イベントも開催",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nRzhZUkNQbDlHb042b0RsVnQwUFdwOHhNNlV0dXc0eExWamdOMVNnOVZiZklybm9aQTJBTUh3UXZCaG9WTWlHWHVDU29ucVZr?oc=5",
+    "source": "Nintendo DREAM WEB",
+    "snippet": "",
+    "ts": "2026-10-31T04:25:53+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -340,18 +340,51 @@
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SWnFNcTVjUjg5WmlqZ29zcTVDZWNVa2dRTzZJRlh0NFFjN0U2RWFkVi1WV2pGSFIwV2ZqUkFzUE95Y19udnViaW1kNV8?oc=5",
     "source": "SNKRDUNK",
     "snippet": "",
-    "ts": "2026-11-01T12:40:47+00:00",
+    "ts": "2026-11-01T20:23:51+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
    },
    {
-    "id": "e9434be23fece9d7",
-    "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【10/31更新】 | スニーカーダンク",
+    "id": "0fe1469296898276",
+    "title": "【ポケカ】ハドウシーカーの予約・抽選情報まとめ【11/1更新】 | スニーカーダンク",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCb3A0WnB6T1FOZnZLeTZJR2hQSlIzcXlCLWYxT0NzQlZSbHpvVWFiTl9qM0laRE1hM0VWb2hCRUc1eVdaT0ZKWW0walI?oc=5",
     "source": "SNKRDUNK",
     "snippet": "",
-    "ts": "2026-11-01T10:03:35+00:00",
+    "ts": "2026-11-01T16:05:16+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "4e9d5be3245f3a87",
+    "title": "【ポケカ】ハドウシーカーの当たりランキング/買取相場/カードリスト/封入率/予約抽選/値段まとめ【2026年11月27日発売】",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wOU1YellPR0t6em5jMVp6TVZzaEFyZVRHaGFxZ3hvVTFoZDRkVkI3LWpoUWtFdDJHeHVSZFdlNkZmTng2ZG83d2ZfT28?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-11-01T14:53:57+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "eacae26564913381",
+    "title": "【ポケカ】ストームエメラルダの予約・抽選情報まとめ【7/30更新】 | スニーカーダンク",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rYTVkODVGUUtEZXhCQkRRUjMwc2dkRmFVX3NyWU03OWFhczF6QnNEQnJ4UXJyOWRRb1c4RnVyWXpOWWF6dnV0YW9TUTY?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-11-01T14:42:28+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "df818797ffd96f53",
+    "title": "【ポケカ】ポケモンカード151の当たりランキング/買取相場/封入率/予約抽選/値段まとめ | スニーカーダンク",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmekkwUDE4RDlGRUNhLXl5NUhyb3IwaFg1YjFBRW9qcFVJdzdpb2NodEdyY0h0V3dwdVp2RHF3cU5yYWlHemlaUlZsSHM?oc=5",
+    "source": "SNKRDUNK",
+    "snippet": "",
+    "ts": "2026-11-01T13:39:13+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -364,28 +397,6 @@
     "snippet": "見よ！この耐久力を！！！\nメガヒードランexで粘って粘って、メガルカリオexと対戦してみた✨\n\n＜ポケモンカードゲームの最新情報や対戦動画などをUPします！＞\nチャンネル登録よろしくね☆ミ\nhttps://www.youtube.com/@PokecaCH\n\n▼この動画の関連動画はコチラ！\nhttps://youtu.be/l64Hz_Kyim0\n\n\n☆ポケカを始めてみたい方はこの動画でルールを覚えよう！☆\nhttps://youtu.be/3Ixc4sKaABA\n★「ポケポケとポケカの違い」まとめ★\nhttps://youtu.be/dRqILG_KHtA\n\n\n▼チャンネルメンバーのSNSア",
     "ts": "2026-11-01T10:00:31+00:00",
     "type": "video",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "f20d1b4dcfd43627",
-    "title": "【ポケカ】2026年の新弾発売スケジュールまとめ | スニーカーダンク",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TMlp3bURLTXJiZ0dDYUhJeHJKQXpWbFlCc0RVZ2lHeFV0QlI5MUctNmtmSW5zeDJBOVZzT09ydzNCeFlnTVdId01hWHY?oc=5",
-    "source": "SNKRDUNK",
-    "snippet": "",
-    "ts": "2026-11-01T09:24:32+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "18235f836c965bba",
-    "title": "ポケモンカードゲーム MEGA 30th スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
-    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBKTm9aajdGMGNwUG9Xdk1qbEZsbXNZbHZkakJFb3M3aEQzYVpBOVEtNDFocEpNTU1GTTZr?oc=5",
-    "source": "Howl.Link",
-    "snippet": "",
-    "ts": "2026-10-31T15:12:31+00:00",
-    "type": "news",
     "guide": false,
     "summary": ""
    },
@@ -507,6 +518,17 @@
     "snippet": "相手のサイドを全部指定してポケカやってみた！\n最悪のサイドでも戦えるプランをみんなは持ってる！？\n\n＜ポケモンカードゲームの最新情報や対戦動画などをUPします！＞\nチャンネル登録よろしくね☆ミ\nhttps://www.youtube.com/@PokecaCH\n\n▼この動画の関連動画はコチラ！\nhttps://youtu.be/mbAKWKvGtHM\n\n\n☆ポケカを始めてみたい方はこの動画でルールを覚えよう！☆\nhttps://youtu.be/3Ixc4sKaABA\n★「ポケポケとポケカの違い」まとめ★\nhttps://youtu.be/dRqILG_KHtA\n\n\n▼チャンネルメンバーのSN",
     "ts": "2026-10-26T10:00:32+00:00",
     "type": "video",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "27639e19b5bf438a",
+    "title": "【ポケカ】ハドウシーカーがAmazonで招待販売リクエスト開始。メガルカリオZ、メガアブソルZ、メガガブリアスZが登場する最新パック",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QRkZDY3p3WjMwRlpGS0JJQnVxN0ZySk13VVpoaV9lQlBMdzhiZk5rWVF3QnEyS2FkdTlSbXFacWZrX2JSckdIQWNJRUhidHF0NjJvbEZhbw?oc=5",
+    "source": "ファミ通",
+    "snippet": "",
+    "ts": "2026-10-26T07:20:00+00:00",
+    "type": "news",
     "guide": false,
     "summary": ""
    },
@@ -634,45 +656,12 @@
   ],
   "sleep": [
    {
-    "id": "b737805c6f44bc3f",
-    "title": "ムウマ2匹目をゲット 1195日目プレイ感想【ポケスリ日記】",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xWmxSaHk4ckRYYnZ5V2VyRDNzTzZheFU2ZG1jb2lWclZoQVA3YXcyTnZLSlpoa2FFSElncDloTGRHbDZ0d0VIdW05S3lxMkVHaExBRVBLc05IZw?oc=5",
-    "source": "人鳥日記",
-    "snippet": "",
-    "ts": "2026-10-31T15:12:00+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "7eba032e3ea9e1a8",
-    "title": "今週中にもう一匹ムウマを捕まえたい 1194日目プレイ感想【ポケスリ日記】",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ncmI2NVFwd3JKWXlyZmZQUUJ1eXpkNlBTRHBLMjJDbTF3S1JvTXJMZnFkcXNoN3FrQTN4Tm93aWpUSzV4TkI1WWNpaXZpa1pyTHhGUVVSVmtlZw?oc=5",
-    "source": "人鳥日記",
-    "snippet": "",
-    "ts": "2026-10-30T04:34:01+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
     "id": "d251b6ca5bed2c89",
     "title": "【キャンペーン】「したごしらえウィーク vol.1」",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ncDNXTjhCUi1rM1ByTEczcjdBeVpMWFpOZGc1bGc5UlRhVnFacHhNd08waFc3Z0lyZGlkTVNPNTVEVUFQV1hONkEweTZtWlFNNC1FbGxnNWRYdWpTOUFOaHpsOEhNUzRpMGU4Y2VfaGxXazl6Y0c2czJOYw?oc=5",
     "source": "ポケモンスリープ 公式サイト",
     "snippet": "",
     "ts": "2026-10-28T03:02:33+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "1a7cd285e7de3e5c",
-    "title": "ムウマ2匹リサーチに登場 1191日目プレイ感想【ポケスリ日記】",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ybXFFYUZqTlRQazRJeXBVQVA4SzlTX0Zhd09ib281ZVVtUWtrSk8wQmtmUVlvbGNWcGtmMHdHNm1CaEFmNFBNaG5DQkRuVU9qVEZyVHNOLXBYQQ?oc=5",
-    "source": "人鳥日記",
-    "snippet": "",
-    "ts": "2026-10-27T10:43:05+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -689,12 +678,34 @@
     "summary": ""
    },
    {
-    "id": "1f2fda92140b85be",
-    "title": "PHP騒動の中で止まった「Pokémon HOME」など3タイトルが22日中に再開 / 情報流出の有無は25日時点でもアナウンスなし【ポケットモンスター】",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fTS00V2R5bjluUnh2UEhGOVlFRFczQmNEeXdOdHM3aVNSUTh1RWpncnF5NDMzUmNEOHh3Q3FUVWpSTF91eXpKU3g5VQ?oc=5",
-    "source": "ガジェット通信",
+    "id": "d170e2f5d22e6039",
+    "title": "【ポケスリ】ハロウィン2026が10月26日開催！ ムウマ実装＆限定イーブイ新登場",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKanpwd2o1WlVITUpsRzd5VWV6RFlQd3VtMHFkdEk4OWduUndRQUE3NzU2UzUyQzl4OHBic1laRnNJdmZwa19EU1M3MElicEVKalRFR1p4NWJtdw?oc=5",
+    "source": "電撃オンライン",
     "snippet": "",
-    "ts": "2026-10-26T02:00:30+00:00",
+    "ts": "2026-10-26T07:00:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "c4413d02ead9cb66",
+    "title": "当選30名に引用3,917件――ポケモンスリープ×すっぴんパウダー、クラブコスメが仕掛けたキャンペーンの中身",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9sQXc3SkhUaHNGQmxPeFVTdEZieElEenZfUGVBRVlpWXc0cURfaFBnMUI4RHlwblhYejlMUXRBWFhUNkU?oc=5",
+    "source": "shiritomo",
+    "snippet": "",
+    "ts": "2026-10-25T11:55:46+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "624bd28cde0941b8",
+    "title": "ポケモンスリープ調査で宮崎県が「睡眠の質」全国1位に 日本一短い通勤時間が良質な睡眠を生む背景か",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAxOURuNGl6Rnc3X0NjcndWck5MX0ZZWEc5bmRtalU4aG1fYnkwQXhwT3NoSk9NckdialhSc25LM3BGSXdpNFl1LWlGbktoazh2ZUZzVmotSVBMcU5neEZ6THJVUjlhcjhEUjFuSDRnVEhTZGlRUVNTdXM0OA?oc=5",
+    "source": "日テレNEWS NNN",
+    "snippet": "",
+    "ts": "2026-10-23T18:27:00+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -706,17 +717,6 @@
     "source": "ポケモンスリープ 公式サイト",
     "snippet": "",
     "ts": "2026-10-20T03:03:07+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "624bd28cde0941b8",
-    "title": "ポケモンスリープ調査で宮崎県が「睡眠の質」全国1位に 日本一短い通勤時間が良質な睡眠を生む背景か",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4teU1kMWRyYnJmWmhZbjE2dVNpZ3hBZWRacFVaSlJ0c2o3a2RqWVhZNG55d3J1Tmhkd29wMkRudjVUSE5EcXRDUk5PS1lLZjJ1bkItd29Ndk5jejNkZy1sWGZVYWMzM09yUHZ6SWIzR2hHTjBwMFRadmRvdW41LUU?oc=5",
-    "source": "Yahoo!ニュース",
-    "snippet": "",
-    "ts": "2026-10-19T07:00:00+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -768,56 +768,12 @@
     "summary": ""
    },
    {
-    "id": "379c6d842dc230a8",
-    "title": "どうろをつくったら、ドーブルせんせいの足あとをみよう【ぽこあポケモン part117】",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54ZnBvZmpSekpsN0NoOVB4TTJDVEgwNTZqUjZraUszbjZldDY4OUJIUVZxdGhpX2R4b2FjZjZaS3BnTllIWnpUMFRBN0JObUdiQ2tQYkZ4WTRJN3Zn?oc=5",
-    "source": "YouTube",
-    "snippet": "",
-    "ts": "2026-11-01T08:00:15+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "144f292d32396d02",
-    "title": "【ぽこあポケモン】料理一覧とおすすめレシピ【ぽこポケ】",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13YWpLbXF4VWJ6cEMxclR4VjE3U0FjMmw3ZDJobVlrUWNCaVBFcVpaLTlHOEt5elhCVGRjZHdhSWRtV05BNV9RcEtFd21CbEZI?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-11-01T02:27:09+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "31739e46e1e9d90b",
     "title": "【＃16】おばちゃんとお嬢様とでかビル【ぽこあポケモンプレイ】【人妻Vtuber経信】",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42cnVyRWtCcVJhN1ZaQlVJclpiZ2FBWXlqTE1TMmhfeXN5Ujdoa2ZhMEZJRFhKYXd0amg3NU9VQlJSeWl0N2d6M3VRZXB6VUpUa0Z6cXl0REwzYXk1?oc=5",
     "source": "YouTube",
     "snippet": "",
     "ts": "2026-11-01T01:00:24+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "3ff5d10be1e56f56",
-    "title": "だいすきなメタモンに【ぽこ あ ポケモン】#16",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fRmxTNm1OSXBNS2htN0kxNFhVbnZBZGxsZmhiNUdZVmNPdWEtZ0VfeGRPWWd6dzBScE96NXVwWHdlOUxrazdnTXMwbjE1TDhndEFHcXlVNmRhVnFY?oc=5",
-    "source": "YouTube",
-    "snippet": "",
-    "ts": "2026-11-01T00:00:24+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "bfef64a443c3d67a",
-    "title": "『ぽこ あ ポケモン』でイオンモールを完全再現！素材回収も全自動で賄う実用建築がネットで話題に",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UTm1iM0J3Q2dVejVkYXZ5NkJHcmJEeE5oSTdfaGVhT096TVJMcUxPOENRZGtDb3JVcEdpZC1ERlNHcWtvMkw0RWVR?oc=5",
-    "source": "ゴゴ通信",
-    "snippet": "",
-    "ts": "2026-10-31T23:33:00+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -834,25 +790,14 @@
     "summary": ""
    },
    {
-    "id": "f591df6d602c619e",
-    "title": "【ぽこポケ】リアルな建築のためのアイデア５選｜ドンヨリうみべの街【ぽこあポケモン】",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kdjRfYXgtdVA1VWNBcUlhN2p2aGRlUjNZZEpHRl9mcGN4UDdWN0ZrUVZGNHBsZXJ4S2RUZVg0SERudmhMeGtZcWVmYTFOTDhtaHVCbll6SlNJU0tB?oc=5",
-    "source": "YouTube",
+    "id": "a044d8fe89489573",
+    "title": "【ぽこあポケモン】かぼちゃキャンディの効率的な集め方と使い道【ぽこポケ】",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HVFVWLVBsN2J0UDFjU09ONlFCa0lHRjhjSnJ1cF9Kd3Q4Y1VWcDdqbDg0NEN6T2lzUW8zRFY0WUdGM1pwcDNrRG5pd0RVMkta?oc=5",
+    "source": "GameWith",
     "snippet": "",
-    "ts": "2026-10-31T12:00:06+00:00",
+    "ts": "2026-10-31T15:34:37+00:00",
     "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "e1c7f099e99e1a59",
-    "title": "【ぽこあポケモン】母、はじめての建築！神社、お城、神楽殿、手水舎、和モダンカフェ 和風建築紹介！【ぽこポケ】【彦根城】【成子天神社】",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5VXJHZWtLM3Q1dE54SWF5ZWdPRGF3MllLQVp0TU1pZThPY2ZoRHloeWZXVkNpLXhDM0NQSTFjQ1hoZG8zRHZKcWF0bE9UUzlBRExXOE5mUXJYUzZf?oc=5",
-    "source": "YouTube",
-    "snippet": "",
-    "ts": "2026-10-31T10:00:39+00:00",
-    "type": "news",
-    "guide": false,
+    "guide": true,
     "summary": ""
    },
    {
@@ -867,34 +812,12 @@
     "summary": ""
    },
    {
-    "id": "6128acdea4bde18d",
-    "title": "【ぽこあポケモン】アップデートの最新情報まとめ【ぽこポケ】",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MTzEwUXpTZ0RJTzIzczZRcnowalN6SHBNMm9zYVEyUjZFSWN4eWtJRlhuQWlZdzUtb01Ob2pmcVVXU0J2M01FUF82ZG1uSHVl?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-10-31T07:57:39+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "69a1b0ec1b669255",
     "title": "『ぽこ あ ポケモン』で「イオンモール」を建築したユーザーが登場。素材もちゃんと集められる、実利&景観両立“まっさらな街店”",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Gak1RZGRTTVhDdU42U1RvVG9FQmttVWdFV2lpTHlNNVdoeWw1YmpoeXF5QjRmdTRBOVdZWDVTVVFFYXNOcFE4dHhLZnFteVhHalg5RmJ0b3Bob2V1M1M5ZmFkTlJFOFVjZXN4Uw?oc=5",
     "source": "AUTOMATON",
     "snippet": "",
     "ts": "2026-10-31T07:52:34+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "4eefab91d3b7b39b",
-    "title": "ハロウィンの家具を使ってハロウィン部屋つくるぞ！【ぽこあポケモン】",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZdXRxWTdlRnRlV2RiNUdMQ3YtMy1WLUtYMDF1WVJKTUxaZFVtOUp5Y25sNHowd3Y1ZlowVklKbENhWnBGV0JZTkE4M1dEMEpXaEptVkpNOUxBOWZV?oc=5",
-    "source": "YouTube",
-    "snippet": "",
-    "ts": "2026-10-31T02:05:33+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -911,23 +834,23 @@
     "summary": ""
    },
    {
-    "id": "f05ff6d95fd1a53e",
-    "title": "ハロウィンホラーハウス紹介 #ぽこあポケモン #ハロウィン #ホラーハウス #ポケモン",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JdGlWOTc5VnZvZG9xRlYwWTBSZG52NkVLYTMwRllpamNKQUw1RFNlblhQRmFjYlVRcVMwaXRpYWlrbUhIZXNwOXppdHk0SVlja1FQUzRuSW92eVFV?oc=5",
-    "source": "YouTube",
-    "snippet": "",
-    "ts": "2026-10-31T00:28:01+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
     "id": "dd1001105e828a3e",
     "title": "【ぽこあポケモン】追加コンテンツ(DLC)第2弾の配信日はいつ？最新情報まとめ【ぽこポケ】",
     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCSU5KdnFPbFh3SkRpQTR1YWNoNFdpXzRjWHd2YWRQVDNBQkYwSU5UVDkzVEMtN1FLZ3RwUmFSVEVwcm9kNnBockYwajZZek45?oc=5",
     "source": "GameWith",
     "snippet": "",
     "ts": "2026-10-30T23:54:05+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "781bd2bb6c0658d6",
+    "title": "【ぽこあポケモン】かくれおに大会の開催期間と攻略【ぽこポケ】",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84cWxQZ0V0RWl2aUdUTWRhb3ZuVmJUNXExOUFzVnQ3aFlnNlFMRG9yR2VsLWJvd3MxVGFjakJXdUJ5Z3BTNGIzTk1saVo3aWMt?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-10-30T19:59:32+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -955,28 +878,6 @@
     "summary": ""
    },
    {
-    "id": "66afecbe575e21c5",
-    "title": "ぽこあポケモン#5｜初プレイ｜ストーリー攻略中｜ASMR作業用｜pokopia｜relaxing(no commentary)",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xRS1xeGJ4TjlIa3lrNUxjczA2aFVBajctUkoxUzczV3Y4XzNvaDhrSWQ5eG9ia3I0NXVCeS15X2xWVVJ3TG1zeHMyeUdYREVhd1lZQUtMZDV5RjU2?oc=5",
-    "source": "YouTube",
-    "snippet": "",
-    "ts": "2026-10-30T09:30:25+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "c162ef05be5248de",
-    "title": "ハロウィンしながらビル完成ぃいいいいい‼️【ぽこあポケモン】#14",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQU0p1SkdHVTBFcndDcFM3REVINlRMRVVpUlA2OWxFbnQ4RENtSU5FVVllM1Z4MjIwRm9sSzlzaE8yMUhzT3ptNlZnMVRJWmU4U3g5eHZOTVdxWFdi?oc=5",
-    "source": "YouTube",
-    "snippet": "",
-    "ts": "2026-10-30T09:04:10+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
     "id": "b6133e5516fc7e8c",
     "title": "タカラトミーより「モンコレ ぽこ あ ポケモン コレクション みんなでトロッコセット」が12月12日発売。メタモンのフィギュアも",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3TC13VXBrcFUybFQzMHhKY0hpNDhrNWRSZkRGNEFxUnlLTklKMXJVQ3M2bWxRRTh2dWdNSl9YMFRrS1lYSy10NVVlaGFiS3Bxc1VUazdR?oc=5",
@@ -988,23 +889,23 @@
     "summary": ""
    },
    {
-    "id": "698dd14e0442f571",
-    "title": "「そこに 3びき ポケモンが いる じゃろう！」3つのモンスターボール型キースタンドなど、「えらぶ」テーマの新作グッズが11月5日順次発売！（インサイド）",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mZ0MtTFdpeDduNGd5RENXNUFVSGRhRGt4NFZVRGQ3SWxKWHJmSGVDeWNIbmFPVm9oMHkxSWRUbkR0UW1rS0Ywb25Yd21LYk9GV1owQnRaQUtVNUZtM3h2YTZraDZFemI1UVNiQ1AxR2NxemNYV1h1WXZJVG5lbG8?oc=5",
-    "source": "Yahoo!ニュース",
-    "snippet": "",
-    "ts": "2026-10-30T05:45:25+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
     "id": "9c011a5ed3a51651",
     "title": "『ぽこ あ ポケモン ＋ エキスパンションパス』『Pokémon LEGENDS Z-A Nintendo Switch 2 Edition ＋ M次元ラッシュ』が10月29日同時発売！",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UZkNJWjFyVTRDNzRNX3FpRFdGYVMyRUNIem1sRGJLM2ZuMUIyb3A4dktjSG1ZdXlZWE5sTEVhWnNhVWRoSGdiNEl5Vy1wdUlRMzhVZm1SOHVyTTZKaC1Wcg?oc=5",
     "source": "AppBank",
     "snippet": "",
     "ts": "2026-10-30T05:44:09+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "d7ec0ca182f6fd5d",
+    "title": "「『ぽこ あ ポケモン』コレクション（9個入）」早期完売、銀座コージーコーナーが発表「予想を上回るご注文」",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmwyeUF1T240Wlhad0RYYnVqSTA3UW1nUHFZR2ZobkF1Sy02a3VaMk1xZklXU21xZmZMaXpxVjI2bUdVWFFMc1doUnROWXNpTnc3dkh1OGwyaFgyTGt3Z1JxNFlyTEdtRnUyMTJiMWRDMTJCeEZnQWVPbnNmcUUxczV5NkJvdw?oc=5",
+    "source": "山陽新聞",
+    "snippet": "",
+    "ts": "2026-10-29T18:18:41+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -1063,9 +964,163 @@
     "type": "news",
     "guide": false,
     "summary": ""
+   },
+   {
+    "id": "8a15319f3be55056",
+    "title": "【ぽこあポケモン】ムウマージの魔女ハウスと秘密の部屋｜ハロウィン建築",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OX3RzNjdfQ2cwNGpaN284djJ3bGhaZEE5ZVB4VGFYVXdWWWJaZWxsUVM5ZGNIbTNhanVlSTVCRGVkTnkxVnNKVmZXenlneHczRVZvSDg5akVPLV83?oc=5",
+    "source": "YouTube",
+    "snippet": "",
+    "ts": "2026-10-29T00:00:20+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "c817103a35d31ed0",
+    "title": "「ぽこ あ ポケモン」に登場するメタモンの立体ラバーキーホルダー全8種がポケセンオンラインで本日発売",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VS1ROZnhDenBBUlpnNlR3ZFkyajdzVlNMcTNuTVdMbnVpc1I5ZW5ZYWxlY1NSVlZfMkNiLU41Snh4c1ZSNVFXZXVCNlR2MERWNXkwNDE4NHdmZlJBcEZXX0tpLVBQQQ?oc=5",
+    "source": "GAME Watch",
+    "snippet": "",
+    "ts": "2026-10-28T15:00:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "8c0e9c6a4500b9cc",
+    "title": "『ぽこ あ ポケモン』の「リラックスBGMメドレー」がYouTubeで公開。“約1時間”にわたって流れるチルい音楽で作業も捗りそう",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQdVZ3anhyZ2M4M0haWThSeGVDVU9rTGsxZEh6ZmZFeVBrQmpFOWVDMHdOamVGbE05b01Vb2RhbndvSjZSbXNMVWdBWmp3WnZZOTJxSnFPTHZxdw?oc=5",
+    "source": "電ファミニコゲーマー",
+    "snippet": "",
+    "ts": "2026-10-28T11:10:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "6fa9e78bc2454bdc",
+    "title": "【公式】『ぽこ あ ポケモン』リラックスBGMメドレー",
+    "link": "https://www.youtube.com/watch?v=W5EVnDMfjj4",
+    "source": "ポケモン公式YouTube",
+    "snippet": "メタモンがいろいろな場所でのんびりとした時間を過ごすようすをお届けするよ。\n場所や時間でうつりかわる『ぽこ あ ポケモン』の音楽を楽しんでね。\n\n『ぽこ あ ポケモン』公式サイト：\nhttps://www.pocoapokemon.jp/ja/\n\n-----\nチャンネル登録はこちら\nhttp://www.youtube.com/user/PokemonCoJp?sub_confirmation=1\n\n【ポケモンの最新情報をチェック！】\n■オフィシャルサイト\nhttps://www.pokemon.co.jp/\n■X\nhttps://twitter.com/pokemon_cojp\n■ポケモン情",
+    "ts": "2026-10-28T09:00:33+00:00",
+    "type": "video",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "ce28e26015cd22f0",
+    "title": "屋台２軒でも盛り上がりは十分｜ぽこあポケモン",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BbElndmFXUE5RUXJ3bjBINDVra3dOaGdwNGFMY2U1V2JCaW1DblNjVlVzMVJVUGJnTXlab012dEN3TWo5MHlzeW5SY0dJUjdPRnBrampxelVoU0ZD?oc=5",
+    "source": "YouTube",
+    "snippet": "",
+    "ts": "2026-10-28T06:03:39+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "4abfc9446ecdc0c3",
+    "title": "【作業用】ハロウィンパーティー会場づくり🎃🪦｜ぽこあポケモン｜pokopia｜建築｜イベント｜声無し｜ASMR｜作業音",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HUkdnai0yc3ZzS0hJcnNrODhzTjlaa1VCOGdJbkR5M29CT2x4UDlGU2tDLWxKNVo0SEhac29wUElFOXFMYXlabkFxcXBBSFlwaEVBRlBUTzVHZnJv?oc=5",
+    "source": "YouTube",
+    "snippet": "",
+    "ts": "2026-10-27T11:00:19+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "bac6f30aa34f6c4b",
+    "title": "『ぽこ あ ポケモン』公式攻略本が11月27日発売！ エキスパンションパス第1弾まで網羅",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50QWktbXU0dGFiV19EZThoQmRZdUdEdC1IWThRTXVfVEEwZTltbHpDcWdhWlBNRzFLQjZqSl82SG9BVFNna2pETEtjYTRFSzl3RVdxUkFkMFVqSTY3Smd1Rg?oc=5",
+    "source": "AppBank",
+    "snippet": "",
+    "ts": "2026-10-27T09:22:49+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "5a9ef7fd9a3fbd2b",
+    "title": "『ぽこ あ ポケモン』公式攻略本が11月27日に発売決定。全ポケモン・全生息地ずかんや、全コレクションの入手法を網羅",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wS2xVSUxHajdSLXVOT2UzeVNxY3dLQjA5clhOcVpnRmRHMG5kbDNCbjh0ZndyWmExNl9BeVlHYllOSFNSSG91WTNaMW5UYzRMMHFUX1VYcnZmUQ?oc=5",
+    "source": "電ファミニコゲーマー",
+    "snippet": "",
+    "ts": "2026-10-27T08:54:00+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "ecf78b13eb6780a5",
+    "title": "「ぽこ あ ポケモン」、オフィシャル攻略ガイド発売決定。追加要素「ブクブクうみぞこの街」まで完全解説したプレイヤー必携の一冊",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vUXpFTGdZNG54UzUwal9rTjZtSU9IcDBaQzZxdEJsbDkxX05IeFItQkZBQ3FRT0xOYUtfMENnYjNseklJLWV0aGVYT0ktbG11UmU2c1VoODkwNlU?oc=5",
+    "source": "タワーレコード オンライン",
+    "snippet": "",
+    "ts": "2026-10-27T08:50:00+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
    }
   ],
   "champions": [
+   {
+    "id": "202f07d7d79cb5c4",
+    "title": "【ポケモンチャンピオンズ】使用率ランキング",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lU19NWHhwR3ZaUXV5UEd2ODJXZTJPdjZWTTNrWHBlYktsTkN1MTMxMXR6RlJXZ3lYbE5KeTl2SjhqMnNHVE5oejN2UE1hY21NT2VvRktiZw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-11-01T20:31:35+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "0cd7e4b1b11b1583",
+    "title": "【ポケモンチャンピオンズ】ダブル最強パーティランキング",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9td0tuUVlUU1hkM3dNQmRKeEpMNFQ1THIzS2cxc2dsY2w1QWt5a09XTDhPTkhiX2FlSWNWcVZrWllfWGlKMFJvSTFMRFh5MkZhWDFSckZHSQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-11-01T15:28:32+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "184031f7c9a1501b",
+    "title": "【ポケモンチャンピオンズ】メガグソクムシャの育成論と対策・パーティ",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nYjgxb0tmbmp2SmNLRjJ0TEVscE9FWWdTWS0wSzFva1R3dVE5ZWotWEt4MURPRE1ZTm1NYUNyNjE4MUR6blZjTEJHNVEzQVJRcV9lbkxyYw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-11-01T15:28:03+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "2bc19b199b50cc14",
+    "title": "【ポケモンチャンピオンズ】素早さ比較ツール・すばやさ早見表",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1LUo2WUlPSlRQUXpHMGd3REVkaVZGako4enBmSVJOeU9qbW1WRWRGY25WcnZMZFhRdlVlWXdzdklzTDc5a3YyN3FaRGNJSGhvRERidk85VQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-11-01T15:20:21+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "8020a013ea8a8850",
+    "title": "【ポケモンチャンピオンズ】ダブルバトル使用率ランキング",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EWkNlM19Sc19tUF8xWFFrZXk4T0ZWanFHaHk4Q2pRWW5qeVdIRG9icHMtOHNOOV9iZ2Z2Wi00OFBCdjg3VkJnaFAyQVNlWG5Cdl9mNXdJMA?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-11-01T14:56:30+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
    {
     "id": "5f1dfddcebe65ef0",
     "title": "眠り粉をブロックするサーフゴー #ポケモン #チャンピオンズ #サーフゴー",
@@ -1100,17 +1155,6 @@
     "summary": ""
    },
    {
-    "id": "22aa250d532c8b4f",
-    "title": "【ポケモンチャンピオンズ】メガボーマンダの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SSlY3Sm1haHVkT05rYTlWNkFjVzI0LTQtY0NseEt3NVdsM2I1TG1Cb00ydUpnbXIxaUJHdlF1dTkzWVk4MmhkajdnVWlvRUNwMzRsQXhiaw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-11-01T08:35:22+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "1db9c8ab4a6e10ad",
     "title": "やはり俺のポケモンチャピオは間違っている #21【ポケモンチャンピオンズ】【直撮り】",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03ajFnbk1yMWtISnctdDBGTWttUVlkaTEwT3BBYWI0MkxxU1NNa29uVE94MXNjMkU4b1pjN0hiNEw0aEZFbXgyYUd0ZWhVVEFiTDhvd2lmVUdYUXlp?oc=5",
@@ -1119,6 +1163,17 @@
     "ts": "2026-11-01T08:00:09+00:00",
     "type": "news",
     "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "87ca0a406c4c37f6",
+    "title": "【ポケモンチャンピオンズ】進め方と序盤にやること",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yNi0zeVRTdUp4TWRIVkFlNUQ5TW9PRDVhTUU0VjlnWG9FNk9aRXNaU2VPRW5LYXluSmNnN210RUlBVlhNUkVCd29VWUtZc2diOUpxcm9WRQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-11-01T07:20:20+00:00",
+    "type": "news",
+    "guide": true,
     "summary": ""
    },
    {
@@ -1144,6 +1199,17 @@
     "summary": ""
    },
    {
+    "id": "47c2af1e81fd3fc8",
+    "title": "【ポケモンチャンピオンズ】最強パーティランキング｜おすすめ構築",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EdWU0U1ZLN0JWN014VklDeHRpQUFRYVJpMF9LMU1UWnZ2Y1ZZa2xDb2JhUUlXdHRZM0JzM3FsQk5WRXRuNHA0RS1xcktKaF85WkpIbFF6aw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-11-01T05:52:24+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
     "id": "f2c19f307367f71c",
     "title": "【アシレーヌはカモ】ガラルヤドキングとサザンドラのサイクルが強すぎた！【ポケモンチャンピオンズ・ゆっくり実況】#タルップル #ガラルヤドキング #サザンドラ",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KZW1DX2tWbVE2cUoya3B3cC1PWXIyR1lyV1p1eFlTVy14XzVnTEUzaTIyZXA3Y0tyS1ZFOEhrcE81YkFTNTg1aW5aT1RlSkI4NmJsNHBpMElWeFZB?oc=5",
@@ -1152,39 +1218,6 @@
     "ts": "2026-11-01T05:38:19+00:00",
     "type": "news",
     "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "976a4e83fce5db95",
-    "title": "【ポケモンチャンピオンズ】サーフゴーの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YRmZyR3NuaDllX3Q1THgtV3BSbENvTVRWbDA3dEV5VFF6VThENnVXVE9xSzY3S0daTzhfVkhPam5RbnpjWjNDQWhFLVJ3VjhIRHQyUks0MA?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-11-01T04:42:10+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "4d4201ee107e4d80",
-    "title": "【ポケモンチャンピオンズ】戦績と勝率の確認方法",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xWlZkRjVFUEVBRXVEMzlUVjNPRzF0Q05rcWtQbXhZU0ZwYVBiRHdCQXVrZUNJeXU0Q0pVdXVQMU1NenJFOG14YWlDU0RBekdOU1NMS1VRWQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-11-01T03:59:18+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "0cd7e4b1b11b1583",
-    "title": "【ポケモンチャンピオンズ】ダブル最強パーティランキング",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9td0tuUVlUU1hkM3dNQmRKeEpMNFQ1THIzS2cxc2dsY2w1QWt5a09XTDhPTkhiX2FlSWNWcVZrWllfWGlKMFJvSTFMRFh5MkZhWDFSckZHSQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-11-01T03:52:10+00:00",
-    "type": "news",
-    "guide": true,
     "summary": ""
    },
    {
@@ -1232,17 +1265,6 @@
     "summary": ""
    },
    {
-    "id": "d126ae43a3dec932",
-    "title": "【ポケモンチャンピオンズ】ゴリランダーの育成論と対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KOGVoM0VZUlFQVXpzOGozQ0Z6cUdmblo3TFBNZGktMk5wbENET0wxdHN4N2ZseDBUNjBBZG9rd1dUOVBRSXhLb1BSZjBoeFZ3aGZEcHdRUQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-11-01T01:20:20+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "c39bb3be7ab5ede4",
     "title": "敵のルカリオに泣かされ、味方のルカリオに救われた【ポケモンチャンピオンズ/Pokémon Champions】",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hOV9hUEV3SGdmMUo5OGR6NW9WRlJXR3VROW9WX2hfQ1hFUkl5dkU5WGlwaUlkTzZtd09YYzNocExYV2ZKeWVmNzh2Mk0xYkZRdktVZE9KTlZiU2VG?oc=5",
@@ -1254,89 +1276,12 @@
     "summary": ""
    },
    {
-    "id": "469786fdf47589a1",
-    "title": "【ポケモンチャンピオンズ】メガメタグロスの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IVmVCVEYybVlaaldjX2pva281SXJpNUduRUVUbElPWHVMOHlzUGV2VVRQZElhZDJGWHFNbXhfZmlqSy1lNEVfQXNKVGcxVUlSWTRNcUpWZw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-10-31T21:33:10+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "a8590de109f4ac6a",
-    "title": "ポケモンチャンピオンズ紹介動画",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVnMxUzhSU2hZT3NlcXhReVFHUWdfb2ZYbUlFb3kzS2NpOFFPWWlSelk3QWFFNldzbzhteURGZTlVZ3NLY25McDJyWExqRmR1V19uOUloWWxjLWVvRm1hSXFDWHNUVV9LMDVxa3oyTUhJOXNnYnhxcWpZRkRRVW9EX1NscDdfU2dtT0ZxQkhnZHZ5Q2ZsRDN2Yy1RamtqdW83Rm02R21ZaVEwQnVGOTQxYVhIdnNfZFA4aVhNTnFyYWh5dHBtWDNYbDRuc0w5TEktSW13Yk1LTk5YNlZ4Z2wwZHF5RFF2WkJwR3Uya2ZhLVZRZw?oc=5",
-    "source": "Otakugame.fr",
-    "snippet": "",
-    "ts": "2026-10-31T20:56:32+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "1c25828b9ebfe3b6",
-    "title": "【ポケモンチャンピオンズ】メガガブリアスZの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vNWNnRHFZdkNjMnQtVFJaTE1RU3h4OGZ6MldVdllGNEE1THBuU3JGYTJpTnVVUWtmMjVPTlZ1Y1pXQkV2MFhaeTg5SkdUMm85NEY3a1ozbw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-10-31T19:58:15+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "7485327755da3228",
-    "title": "【ポケモンチャンピオンズ】セグレイブの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oWHd2LUJLRWVlUGZnZEpmMVM3V2VDcnljbENMTVE1NzR2ZlZURVc4VC1Gd0tlaUdheDViUTlTanNMUHk1YmZwT1ZJR051SVdWblNIWWpKdw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-10-31T19:33:27+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "f12a557aed80b750",
     "title": "【ポケモンチャンピオンズ】ランクマ上位構築パーティ一覧(M-6構築記事)",
     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kNVBkMWhUdHo4V1Jic256TGN0aERFVTR3NkRET0YzQ2ZoN0xBcXJCZjJHeThpVFc2a0lnRTB3Q3R2ajRjUE0zSlR4V2x1SElBbzFTOXlZcw?oc=5",
     "source": "GameWith",
     "snippet": "",
     "ts": "2026-10-31T18:26:36+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "80e288afb0c48bfc",
-    "title": "【ポケモンチャンピオンズ】バランス調整されたポケモン一覧",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1wSWNrdkp6OGdmbUFWNlR1aF9fU0I5Nm5Tci16SzdLMkNvNHBDTDNlUUItRFBmVmdsWFJad0VPck5QSDhlT0hobldYcUFVZFVoUHd2MnRIbw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-10-31T18:18:19+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "184031f7c9a1501b",
-    "title": "【ポケモンチャンピオンズ】メガグソクムシャの育成論と対策・パーティ",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nYjgxb0tmbmp2SmNLRjJ0TEVscE9FWWdTWS0wSzFva1R3dVE5ZWotWEt4MURPRE1ZTm1NYUNyNjE4MUR6blZjTEJHNVEzQVJRcV9lbkxyYw?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-10-31T16:21:23+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
-    "id": "3fb8d00048e62d68",
-    "title": "【ポケモンチャンピオンズ】壁構築のおすすめポケモンと対策",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LaExnVlFmemJXOVBRMGc4VTlWUTBsNXZmSjVVNmdOV293ckd4cFVoMl9LVkRGNlY4YU5XVFJEemFHM0x0ZjlKaURmckVJY3NPdlBrV1FGWQ?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-10-31T15:06:24+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
@@ -1353,17 +1298,6 @@
     "summary": ""
    },
    {
-    "id": "8020a013ea8a8850",
-    "title": "【ポケモンチャンピオンズ】ダブルバトル使用率ランキング",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EWkNlM19Sc19tUF8xWFFrZXk4T0ZWanFHaHk4Q2pRWW5qeVdIRG9icHMtOHNOOV9iZ2Z2Wi00OFBCdjg3VkJnaFAyQVNlWG5Cdl9mNXdJMA?oc=5",
-    "source": "GameWith",
-    "snippet": "",
-    "ts": "2026-10-31T14:36:08+00:00",
-    "type": "news",
-    "guide": true,
-    "summary": ""
-   },
-   {
     "id": "58a0565c716726ab",
     "title": "【ポケモンチャンピオンズ】本命パを切り替えて更新を目指す",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VMTB6ZGpFejRVaWE4Uk1iVEJFVEJleWhuZ3JWT1IxMWQwckJRUXF6RDhxNGdmSGxzSUx6THF3OTM1bktHNEZzeENKVlRINTlJSlFJYlliYlNnMkxl?oc=5",
@@ -1375,29 +1309,117 @@
     "summary": ""
    },
    {
-    "id": "5cdaa206b5d253b5",
-    "title": "【ポケモンチャンピオンズ】メガバンギラス、実質チョッキ持ち説ｗ",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Zdm5CUC1GWWQ0ZHh1TlBmb0Vkamc5QzdOX2NqZ2RoUE9tdDlqMmh5XzNsYi01NWF2WTlFWE1ydFhhaDVSaFhwSHczcGItNjZOaU1BUFJYcmdBWlBF?oc=5",
+    "id": "93dc455916debe9e",
+    "title": "【ハロウィン企画】ゴーストパーティの「みちづれ」で相手のパーティもめちゃくちゃにする！！！【ポケモンチャンピオンズ】",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5id05fT2lLdUlwMUEzN2pqQnRlZVpFcXNUc3RCVWRzSnMyQVVNQ1YwMFpxSTd1a2dZUlZQejUwWm84dw?oc=5",
     "source": "YouTube",
     "snippet": "",
-    "ts": "2026-10-31T13:31:56+00:00",
+    "ts": "2026-10-31T11:00:21+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
    },
    {
-    "id": "5ab048866813695d",
-    "title": "【R1894～】もっと言語化できるようになりたい【ポケモンチャンピオンズ】【ポケチャン】",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Jdk9qNXI0ZVRxMVBycHU0NWRIaXhNOVROOGJYekl6RnRhOGNFNnpON0NwM1ZTN2JGX21jTk1NUl9rUnA3MHpVRE5fdWN2dG1rbVZZNldzT1pEVk4w?oc=5",
+    "id": "2090cc4446bb69ea",
+    "title": "【ポケモンチャンピオンズ】アラフィフおじさんのポケモン対戦記その196 シングルレートマッチM-7【対戦実況】",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhcC1YT2NYZGt1VmV4aWVWNEg5VEFUcmVwRkNtMzI0NFNzTXdtTVU2ZlNtNGNhWXJmMlFVWkw0MXlkRTQ2Q3RDNV85bjNLMFh0dmFaeWVHclg0OXlI?oc=5",
     "source": "YouTube",
     "snippet": "",
-    "ts": "2026-10-31T12:27:30+00:00",
+    "ts": "2026-10-31T11:00:18+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "7ce0ecd546bde83f",
+    "title": "【ゲーム実況】久々にポケモンチャンピオンズやったらヤバメだった😭今回は3試合したよ",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OR3dUbEM0RURyRHp1V254ZGtoRnNnMjA1bHp5bUJYSU94MjRCdmo3N2M1NDhtMVNNLXZKWHF1NnMyUUNreTJ1Ujg3ME5vaTBqX3N2cUMyVHJHbDJl?oc=5",
+    "source": "YouTube",
+    "snippet": "",
+    "ts": "2026-10-31T09:45:45+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "853093fad127b376",
+    "title": "【カラスバ統一】その選択、通ると思ったんか？【#ポケモンチャンピオンズ】",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xb2otSHZBTUhxemlKTzQxeTJsU1Y1ZWswZnR5cmtrN2VSSnNZTHFjVFJzLWxCTkFfOXNxWE5NaVlfd1FXaFRrS2xXb0d4LVR0NmRkMEJvc0tuX1d3?oc=5",
+    "source": "YouTube",
+    "snippet": "",
+    "ts": "2026-10-31T09:00:33+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "1baa9c1fcf0e7e37",
+    "title": "【ポケモンチャンピオンズ】ハッピーハロウィン！ハロウィンにゴースト統一でイクゾー！パンプジンさんははこの日しか出ないレアキャラです【ゆっくり実況】",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00b3RldmV2MkZxNWliMUdhWjNkTTNYN05MSmc3SS1kRnhmNDNpLVplSjVZNU52SzlDMUpHWTdLVU5RdDdGclNXclFkazBjSG9ROHMtbGFDdHRMQnhY?oc=5",
+    "source": "YouTube",
+    "snippet": "",
+    "ts": "2026-10-31T09:00:28+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "b0414e4ff7a0c3a9",
+    "title": "【ポケモンチャンピオンズ】メガセグレイブの育成論と対策",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04YURUYVJEdXZvalFLbmV1MGJ4QU52RDRjYkVMUE5kU1BUbUVUaHdOTGtKZ1ZtSjBaTDlFeEZPQTdkOFp5NDZHSkJWYU9TN0NWckJPNDk5Zw?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-10-31T04:00:04+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "5ae829e4884350e9",
+    "title": "ブイズの恥とまで言われた”ブースター”が実は超最強でしたｗｗｗ 超高火力フレアドライブで全てを焼き尽くす！【ポケモンチャンピオンズ|実況プレイ】",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3b0d5NlZSVmFDOUxmUlZ3SXd2MmlkNmdpYUZ5YzFOdGdvczN6NnBvRi01d0psRmF5dWZfUTFNbkVoa1RhTElYczN0aThKSEctMlBWNzRHTlg5NldL?oc=5",
+    "source": "YouTube",
+    "snippet": "",
+    "ts": "2026-10-30T22:00:38+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "14568989748152fa",
+    "title": "サザンドラの使い方【ポケモンチャンピオンズ】【ゆっくり実況】",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wdEQ5LVRkbUFiY1ZyckFlYk5qSWpsOGVEWGNQMl81SWd4cTlEa1ZXbERjYjdLQVhYcnRSbTlqLWp2M1lmaXFsbVJMSmltNml4b1N4LWM5WHYzdGp4?oc=5",
+    "source": "YouTube",
+    "snippet": "",
+    "ts": "2026-10-30T11:00:32+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
    }
   ],
   "mainline": [
+   {
+    "id": "826b3e3a601cc974",
+    "title": "【ポケモン】#38 M次元ラッシュ ほわどら巫女とクリア後の探索【ポケモンレジェンズZA】【Pokémon Legends: Z-A 】",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9uWGEwYnV6UHEtNlcycW85VUgtTkJsYkdyR05FeTdUelNVeFQ0WWZTZXJpYXgydEVfTFQ1MjAxc1BoQQ?oc=5",
+    "source": "YouTube",
+    "snippet": "",
+    "ts": "2026-11-01T17:51:58+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "8bbe904cf1e3a12c",
+    "title": "【無言】ゆびをふる縛りVS暴走メガスターミー【ポケモンレジェンズZA】",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wZUJYWDhwaGFoVkE1RDZObkFLMlRsYjN6STFqLTdMUEczWnl3Wk5TYmt2QXV1Wml3ZFZLYnVnOUlyOWxSQ2tCWTU0bWVPVXVCTkxwOHh4QlN6bGdm?oc=5",
+    "source": "YouTube",
+    "snippet": "",
+    "ts": "2026-11-01T12:00:22+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
    {
     "id": "eac9a1d027033275",
     "title": "【ポケモンZA】Aランク到達！ #ポケモンレジェンズZA #ポケモン #ヒトカゲ #PokemonLegendsZA #hitokagekyou #Twitch",
@@ -1465,17 +1487,6 @@
     "summary": ""
    },
    {
-    "id": "f28903db208c0227",
-    "title": "【異次元実況】ポケモンレジェンズアルセウスを実況プレイ Part117",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xN05WN3ZlN0ZNbHl4eEdLVGxJdjhJZDVWWUpxcE5MMGZRVFJuR0xIM1Q2bkRKLXBGRHhYVnJOX3JVSjU5M3YyV2UyRTZ5dUVNdFBPeVJHOG9FeVdp?oc=5",
-    "source": "YouTube",
-    "snippet": "",
-    "ts": "2026-10-31T09:30:25+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
     "id": "a2700a95564c27a8",
     "title": "【ポケモンZA】#52 AZとプリズムタワーの真実と、グリとのランクアップ戦！【アフレコ実況／ネタバレ注意】",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42RGF2aWw4ZWozV1pBQTNHNkZyUnJVUVdLODFlTWdiV2JKQ3BxeGZsM0NEVTUzYjFmbGwyZjhidnRDWThScWY1aktCZkJuRVk5bGRkNmJTSGxjX1RZ?oc=5",
@@ -1498,34 +1509,12 @@
     "summary": ""
    },
    {
-    "id": "dafebdc9471ba391",
-    "title": "お得に“スイッチ2ライフ”を充実！『ポケモンZ-A』『桃鉄』『マリカ8 DX』『ゼノクロDE』『真VV』など、名作・良作が3,278円─ゲオ店舗のゲームセールを現地調査 2ページ目",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmQ0NwZGF2dFJEVXFzVmhwMWVycnpoc0ZHbllMOG5WZk1xY3VCTzZDRUMtOG9UcEdfeGpXWDFYNzRkaHpYSWRubDk1ODh0ak9iN05MZjgzWEFfbms4MFlqREpGbjFQSk1wZXc?oc=5",
-    "source": "インサイド",
-    "snippet": "",
-    "ts": "2026-10-31T01:10:02+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
     "id": "fd051ab661fb02c4",
     "title": "『ポケモンレジェンズ Z-A』全114曲が「Nintendo Music」で一挙配信開始！戦闘BGMや街の楽曲も",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83ZS0yRktxTVp0NjJmd3BfUWNHUU9ReWg3SnF0eHlQWGxScDFEVkFzekRDRzNxQWhYUFhLd0ZTRlhEMmpzNE1MRjlLLVRkRnlwdjN3cw?oc=5",
     "source": "ニコニコニュース",
     "snippet": "",
     "ts": "2026-10-30T23:48:06+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "1795e9246628b087",
-    "title": "【無言】ゆびをふる縛りVS暴走メガバンギラス【ポケモンレジェンズZA】",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXWGU2cEZsMlVEeGptazRfekxQcXgyZ2g3MXc2aHZ1VGJ6d3htNEhfenpady1kWjBVNV85OW9QZFBsaGtweFNjUEo0ZVJuNk80X05BdFVTakt5cDRU?oc=5",
-    "source": "YouTube",
-    "snippet": "",
-    "ts": "2026-10-30T12:00:37+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -1653,22 +1642,11 @@
    },
    {
     "id": "0b9ddac0308d4848",
-    "title": "「ポケモンZA」でコフーライがもらえる期間限定のキャンペーン開催！ (GAME Watch)",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFRZOU5LUE1rUmpqNXVYVnFsb3BlMW11TTNwelBhdVpvQkFyMzlMZU8taThfbjBudEhNN0lvR3lCMVBXTUJGQXFnSkZkU2czelR1akVNa3B5TWV6TkV6Z2QwZjlIamhudVVZTVEwVUk4bXlRZC1BMndMaURZN041Vmt5X0hjV3ZXYzRMMXR3?oc=5",
+    "title": "「ポケモンZA」でコフーライがもらえる期間限定のキャンペーン開催！（GAME Watch）",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6ZW9kRjZwNzJNTlZXX2g0LUZibGlYZnhrV1NOVWc4ZF93RkJTM196UC1IbU1kc0U0U0hKVUdrNlptLWI2ZXlObF9Qc0E3UHRWT2NoeEI0bmVXVEpXYlRfRXg3ZEw3b3d4WE42UGlRcTlVNXZIZ1dRMVNVbmVERlU?oc=5",
     "source": "Yahoo!ニュース",
     "snippet": "",
     "ts": "2026-10-29T09:29:00+00:00",
-    "type": "news",
-    "guide": false,
-    "summary": ""
-   },
-   {
-    "id": "d985b5b98011eb4a",
-    "title": "『ポケモンレジェンズ Z-A』で「ビビヨン（ボールのもよう）」10年越しに配布へ",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81MzIzSzNvZU9QUzFSNEVjUk1zR2FkSTl0S3EwS1gteDhOUzB5LVZPTU9pUzU4alhEbUp5OXlfRkhtN1R1Tk83alBqaHoxU0tsRzdyenZNLW8tUQ?oc=5",
-    "source": "電ファミニコゲーマー",
-    "snippet": "",
-    "ts": "2026-10-29T08:11:00+00:00",
     "type": "news",
     "guide": false,
     "summary": ""
@@ -1724,6 +1702,28 @@
     "source": "GameWith",
     "snippet": "",
     "ts": "2026-10-29T07:39:12+00:00",
+    "type": "news",
+    "guide": true,
+    "summary": ""
+   },
+   {
+    "id": "2de17b0ba00e2693",
+    "title": "『ポケモンレジェンズ Z-A』楽曲が『Nintendo Music』で配信開始。カナリィ、カラスバ、ユカリ戦BGMなど114曲",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBjWTVpY0ZCZmhMT3c4UVEwbFF3TEFFa18zWnBVbzJaNkZ5Y01Ha0hUUFNKQlRHdTVWZFBBV292Y3hYbDJwM1NlbzZ2elRxSmpCemVnaTlMWQ?oc=5",
+    "source": "ファミ通",
+    "snippet": "",
+    "ts": "2026-10-29T06:55:00+00:00",
+    "type": "news",
+    "guide": false,
+    "summary": ""
+   },
+   {
+    "id": "df4caae858c2a75c",
+    "title": "【ポケモンZA】異次元きのみの効率的な集め方と使い道【ポケモンレジェンズZA】",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxWmlmTFlMUWlnbHhmTXRqanNjaDB0aGVFakltNjFxclcyamdDSUVuNWRuSnlUUThoVnhFRWV1ZzhGd1JZa3FvRU8yYVNvUQ?oc=5",
+    "source": "GameWith",
+    "snippet": "",
+    "ts": "2026-10-29T06:52:41+00:00",
     "type": "news",
     "guide": true,
     "summary": ""
